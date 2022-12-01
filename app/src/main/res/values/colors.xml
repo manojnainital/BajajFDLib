@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="myWindowBackground">#DEDEDE</color>
+    <color name="myTextPrimaryColor">#FFFFFF</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#898989</color>
+    <color name="purple_700">#898989</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!--<color name="colorPrimary">#6e0a26</color>-->
+    <color name="colorPrimary">#e7161e</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTootip">#5a5a5a</color>
+    <color name="color_E04F5F">#E04F5F</color>
+
+    <color name="color_363636">#363636</color>
+    <color name="color_757575">#757575</color>
+    <color name="color_000000">#000000</color>
+    <color name="color_ffffff">#ffffff</color>
+    <color name="color_graph_dashed">#32c6c6c6</color>
+
+    <!--<color name="color_790023">#790023</color>-->
+    <color name="color_790023">#e7161e</color>
+
+    <color name="color_004783">#004783</color>
+    <color name="color_456EB4">#456EB4</color>
+    <color name="color_959595">#959595</color>
+    <color name="color_C6C6C6">#C6C6C6</color>
+    <color name="color_067888">#067888</color>
+
+    <color name="color_13447e">#13447e</color>
+    <color name="color_e3e3e3">#e3e3e3</color>
+    <color name="color_1b79fc">#1b79fc</color>
+    <color name="color_bababa">#bababa</color>
+    <color name="color_696969">#696969</color>
+    <color name="color_098B99">#098B99</color>
+    <color name="color_DD99A3">#DD99A3</color>
+
+    <!--<color name="color_7A0027">#7A0027</color>-->
+
+    <color name="color_555555">#555555</color>
+
+    <!--<color name="color_88062F">#88062F</color>-->
+
+    <!--<color name="color_640523">#640523</color>-->
+
+    <color name="color_0C9A21">#0C9A21</color>
+
+    <color name="color_3A3A3A">#3A3A3A</color>
+    <color name="color_004B80">#004B80</color>
+    <color name="color_FFFFFF">#FFFFFF</color>
+    <!--<color name="color_8F0504">#8F0504</color>-->
+    <color name="color_8F0504">#e7161e</color>
+    <color name="color_898989">#898989</color>
+    <color name="color_257D8D">#257D8D</color>
+    <color name="color_636363">#636363</color>
+    <color name="color_929091">#929091</color>
+
+    <color name="color_C5C5C5">#C5C5C5</color>
+    <color name="color_6EC6B7">#6EC6B7</color>
+    <color name="color_246da3">#246da3</color>
+
+    <color name="color_707070">#707070</color>
+
+
+    <color name="color_34bfa5">#34bfa5</color>
+    <color name="color_FF0000">#FF0000</color>
+    <color name="color_FFFF55">#FFFF55</color>
+
+    <color name="color_be0d44">#BE0D44</color>
+    <color name="color_12A3B4">#12A3B4</color>
+    <color name="color_02B92D">#02B92D</color>
+
+
+    <color name="color_008996">#008996</color>
+
+    <!--<color name="color_C7080F">#C7080F</color>-->
+    <color name="color_1e295d">#1e295d</color>
+
+    <!--"#D36B45"-->
+
+    <color name="color_0050a1">#0050a1</color>
+
+    <color name="color_c7c7c7">#c7c7c7</color>
+
+    <color name="color_9598b9">#9598b9</color>
+    <color name="color_045ca2">#045ca2</color>
+    <color name="whiteColor">#ffffff</color>
+
+    <color name="color_b2b2b2">#B2B2B2</color>
+
+    <color name="color_515151">#515151</color>
+    <color name="color_feffff">#feffff</color>
+    <color name="color_1A818F">#1A818F</color>
+    <color name="color_888687">#888687</color>
+    <color name="color_DF001D">#DF001D</color>
+    <color name="color_DF001F">#DF001F</color>
+    <color name="color_EFEFEF">#EFEFEF</color>
+    <color name="color_084675">#084675</color>
+
+    <color name="semi_transparent">#b4101010</color>
+    <color name="light_semi_transparent">#64101010</color>
+
+    <!--<color name="background_default">#A5D6A7</color>
+    <color name="step_default">#4CAF50</color>-->
+    <color name="text_default">#000000</color>
+    <color name="colorRed_nivesh">#F50000</color>
+    <color name="colorBlue_nivesh">#21245F</color>
+    <color name="disable_white">#8b8b8b</color>
+    <color name="colorRedOne">#e7161e</color>
+    <color name="colorRedTwo">#80E7161E</color>
+
+    <color name="colorPie_DEBT">#db8740</color>
+    <color name="colorPie_EQUITY">#e65175</color>
+    <color name="colorPie_HYBRID">#73d060</color>
+    <color name="colorPie_OTHER">#649dd4</color>
+    <color name="colorPie_SOLUTION_ORIENTED">#f3f326</color>
+
+
+    <color name="appexit">#d74e4e</color>
+    <color name="bg_btn">#C8C8C8</color>
+    <color name="golden_button">#F0C894</color>
+
+    <!-- sweer alert dialog colors -->
+    <color name="float_transparent">#00000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="text_color">#575757</color>
+    <!-- sweer alert dialog colors -->
+
+
+    <!-- colors for Nivesh (Start) -->
+    <color name="Nivesh_colorPrimary">#e7161e</color>
+    <color name="Nivesh_colorPrimaryDark">#303F9F</color>
+    <color name="Nivesh_colorAccent">#FF4081</color>
+    <color name="Nivesh_colorToolbar_bg">#e7161e</color>
+    <color name="Nivesh_color_AppBg">#EBEBEB</color>
+    <color name="Nivesh_LoginBtn_bg">#e50018</color>
+    <color name="Nivesh_WhiteColor_1">#FCFCFC</color>
+    <color name="Nivesh_WhiteColor_2">#feffff</color>
+    <color name="Nivesh_WhiteColor_3">#d2ffffff</color>
+    <color name="Nivesh_TextColorWhite">#FFFFFF</color>
+    <color name="Nivesh_TextColorBlack">#000000</color>
+    <color name="Nivesh_TextColorForgot">#004783</color>
+    <color name="Nivesh_TextColorVersion">#696969</color>
+    <color name="Nivesh_TextColorFacebook">#456EB4</color>
+    <color name="Nivesh_ColorFacebook_Blue">#3B5998</color>
+    <color name="Nivesh_TextColorGooglePlus">#EC3634</color>
+    <color name="Nivesh_EdtTextHintColor">#363636</color>
+    <color name="Nivesh_YellowColor_1">#f9f93d</color>
+    <color name="Nivesh_BgColorDark_1">#959595</color>
+    <color name="Nivesh_RedColor_1">#BB4419</color>
+    <color name="Nivesh_RedColor_2">#DF001D</color>
+    <color name="Nivesh_RedColor_3">#BE0D44</color>
+    <color name="Nivesh_RedColor_4">#cc141b</color>
+    <color name="Nivesh_RedColor_5">#910303</color>
+    <color name="Nivesh_RedColor_6">#E7151E</color>
+    <color name="Nivesh_RedColor_7">#9C4664</color>
+    <color name="Nivesh_RedColor_8">#DCBDC7</color>
+    <color name="Nivesh_BlueColor_Main">#0050a1</color>
+    <color name="Nivesh_BlueColor_1">#004B80</color>
+    <color name="Nivesh_BlueColor_2">#08878f</color>
+    <color name="Nivesh_BlueColor_3">#6cc0ca</color>
+    <color name="Nivesh_BlueColor_4">#7aa8d9</color>
+    <color name="Nivesh_BlueColor_5">#0050a1</color>
+    <color name="Nivesh_BlueColor_6">#13447e</color>
+    <color name="Nivesh_BlueColor_7">#21456C</color>
+    <color name="Nivesh_BlueColor_8">#00507F</color>
+    <color name="Nivesh_BlueColor_9">#004F7C</color>
+    <color name="Nivesh_BlueColor_10">#6EC6B7</color>
+    <color name="Nivesh_BlueColor_11">#1F587F</color>
+    <color name="Nivesh_BlueColor_12">#204C70</color>
+    <color name="Nivesh_BlueColor_13">#246da3</color>
+    <color name="Nivesh_BlueColor_14">#20567E</color>
+    <color name="Nivesh_BlueColor_15">#30546F</color>
+    <color name="Nivesh_BlueColor_16">#00aeef</color>
+    <color name="Nivesh_BlueColor_17">#1E557F</color>
+    <color name="Nivesh_BlueColor_18">#067888</color>
+    <color name="Nivesh_BlueColor_19">#215073</color>
+    <color name="Nivesh_BlackColor_0">#00000000</color>
+    <color name="Nivesh_BlackColor_1">#252525</color>
+    <color name="Nivesh_BlackColor_2">#929091</color>
+    <color name="Nivesh_BlackColor_3">#C5C5C5</color>
+    <color name="Nivesh_BlackColor_4">#555555</color>
+    <color name="Nivesh_BlackColor_5">#E2E2E2</color>
+    <color name="Nivesh_BlackColor_6">#5A5A5A</color>
+    <!--    <color name="Nivesh_BlackColor_7">#7C7C7C</color>-->
+    <color name="Nivesh_BlackColor_7">#757575</color>
+    <color name="Nivesh_BlackColor_8">#0D325B</color>
+    <color name="Nivesh_BlackColor_9">#bababa</color>
+    <color name="Nivesh_BlackColor_10">#7B7B7B</color>
+    <color name="Nivesh_BlackColor_11">#3A3A3A</color>
+    <color name="Nivesh_BlackColor_12">#B2B2B2</color>
+    <color name="Nivesh_BlackColor_13">#8c8c8c</color>
+    <color name="Nivesh_BlackColor_14">#395062</color>
+    <color name="Nivesh_BlackColor_15">#80000000</color>
+    <color name="Nivesh_BlackColor_16">#636363</color>
+    <color name="Nivesh_BlackColor_17">#898989</color>
+    <color name="Nivesh_BlackColor_18">#e3e3e3</color>
+    <color name="Nivesh_BlackColor_19">#565656</color>
+    <color name="Nivesh_BlackColor_20">#F0F0F0</color>
+    <color name="Nivesh_BlackColor_21">#6C6C6C</color>
+    <color name="Nivesh_BlackColor_22">#373737</color>
+    <color name="Nivesh_BlackColor_23">#C6C6C6</color>
+    <color name="Nivesh_BlackColor_24">#C8C8C8</color>
+    <color name="Nivesh_BlackColor_25">#8b8b8b</color>
+    <color name="Nivesh_BlackColor_26">#2c2c2c</color>
+    <color name="Nivesh_BlackColor_27">#DEDEDE</color>
+    <color name="Nivesh_BlackColor_28">#c7c7c7</color>
+    <color name="Nivesh_BlackColor_29">#707070</color>
+    <color name="Nivesh_BlackColor_30">#64101010</color>
+    <color name="Nivesh_BlackColor_31">#515151</color>
+    <color name="Nivesh_BlackColor_32">#424242</color>
+    <color name="Nivesh_BlackColor_33">#353535</color>
+    <color name="Nivesh_BlackColor_34">#888687</color>
+    <color name="Nivesh_BlackColor_35">#2E2E2E</color>
+    <color name="Nivesh_BlackColor_36">#757575</color>
+    <color name="Nivesh_BlackColor_37">#BA101010</color>
+    <color name="Nivesh_BlackColor_38">#D2D2D2</color>
+    <color name="Nivesh_BlackColor_39">#494949</color>
+    <color name="Nivesh_BlackColor_40">#595959</color>
+    <color name="Nivesh_BlackColor_41">#474747</color>
+    <color name="Nivesh_GreenColor_1">#0C9A21</color>
+    <color name="Nivesh_GreenColor_2">#098B99</color>
+    <color name="Nivesh_GreenColor_3">#018498</color>
+    <color name="Nivesh_GreenColor_4">#257D8D</color>
+    <color name="Nivesh_GreenColor_5">#3C97A2</color>
+    <color name="Nivesh_GreenColor_6">#19808E</color>
+    <color name="Nivesh_GreenColor_7">#12A3B4</color>
+    <color name="Nivesh_GreenColor_8">#1A818F</color>
+    <color name="Nivesh_goal_blue">#1E2A5E</color>
+    <color name="Nivesh_goal_header">#8E92AD</color>
+    <color name="Nivesh_goal_child_header">#A2AEBC</color>
+    <color name="Nivesh_goal_progress">#F16067</color>
+    <color name="Nivesh_goal_background">#E2E9F1</color>
+    <color name="Nivesh_goal_light_blue">#3F89C8</color>
+    <color name="Nivesh_goal_txt_light_blue">#C9DEEE</color>
+    <color name="Nivesh_goal_txt_light_gray">#B5BFC9</color>
+
+    <!-- colors for Nivesh (End) -->
+
+
+    <!-- colors for Ganesh (Start) -->
+    <!--<color name="Ganesh_colorPrimaryeven">#3D6334</color>-->
+    <!--    <color name="Ganesh_colorPrimary">#e7161e</color>-->
+    <color name="Ganesh_colorPrimary">#981824</color>
+    <color name="Ganesh_colorPrimaryDark">#303F9F</color>
+    <color name="Ganesh_colorAccent">#FF4081</color>
+    <color name="Ganesh_colorToolbar_bg">#e7161e</color>
+    <color name="Ganesh_color_AppBg">#EBEBEB</color>
+    <color name="Ganesh_LoginBtn_bg">#e50018</color>
+    <color name="Ganesh_WhiteColor_1">#FCFCFC</color>
+    <color name="Ganesh_WhiteColor_2">#feffff</color>
+    <color name="Ganesh_WhiteColor_3">#d2ffffff</color>
+    <color name="Ganesh_TextColorWhite">#FFFFFF</color>
+    <color name="Ganesh_TextColorBlack">#000000</color>
+    <color name="Ganesh_TextColorForgot">#004783</color>
+    <color name="Ganesh_TextColorVersion">#696969</color>
+    <color name="Ganesh_TextColorFacebook">#456EB4</color>
+    <color name="Ganesh_ColorFacebook_Blue">#3B5998</color>
+    <color name="Ganesh_TextColorGooglePlus">#EC3634</color>
+    <color name="Ganesh_EdtTextHintColor">#363636</color>
+    <color name="Ganesh_YellowColor_1">#f9f93d</color>
+    <color name="Ganesh_BgColorDark_1">#959595</color>
+    <color name="Ganesh_RedColor_1">#BB4419</color>
+    <color name="Ganesh_RedColor_2">#DF001D</color>
+    <color name="Ganesh_RedColor_3">#BE0D44</color>
+    <color name="Ganesh_RedColor_4">#cc141b</color>
+    <color name="Ganesh_RedColor_5">#910303</color>
+    <color name="Ganesh_RedColor_6">#E7151E</color>
+    <color name="Ganesh_RedColor_7">#9C4664</color>
+    <color name="Ganesh_RedColor_8">#DCBDC7</color>
+    <color name="Ganesh_BlueColor_1">#004B80</color>
+    <color name="Ganesh_BlueColor_2">#08878f</color>
+    <color name="Ganesh_BlueColor_3">#6cc0ca</color>
+    <color name="Ganesh_BlueColor_4">#7aa8d9</color>
+    <color name="Ganesh_BlueColor_5">#0050a1</color>
+    <color name="Ganesh_BlueColor_6">#13447e</color>
+    <color name="Ganesh_BlueColor_7">#21456C</color>
+    <color name="Ganesh_BlueColor_8">#00507F</color>
+    <color name="Ganesh_BlueColor_9">#004F7C</color>
+    <color name="Ganesh_BlueColor_10">#6EC6B7</color>
+    <color name="Ganesh_BlueColor_11">#1F587F</color>
+    <color name="Ganesh_BlueColor_12">#204C70</color>
+    <color name="Ganesh_BlueColor_13">#246da3</color>
+    <color name="Ganesh_BlueColor_14">#20567E</color>
+    <color name="Ganesh_BlueColor_15">#30546F</color>
+    <color name="Ganesh_BlueColor_16">#00aeef</color>
+    <color name="Ganesh_BlueColor_17">#1E557F</color>
+    <color name="Ganesh_BlueColor_18">#067888</color>
+    <color name="Ganesh_BlueColor_19">#215073</color>
+    <color name="Ganesh_BlackColor_0">#00000000</color>
+    <color name="Ganesh_BlackColor_1">#252525</color>
+    <color name="Ganesh_BlackColor_2">#929091</color>
+    <color name="Ganesh_BlackColor_3">#C5C5C5</color>
+    <color name="Ganesh_BlackColor_4">#555555</color>
+    <color name="Ganesh_BlackColor_5">#E2E2E2</color>
+    <color name="Ganesh_BlackColor_6">#5A5A5A</color>
+    <color name="Ganesh_BlackColor_7">#7C7C7C</color>
+    <color name="Ganesh_BlackColor_8">#0D325B</color>
+    <color name="Ganesh_BlackColor_9">#bababa</color>
+    <color name="Ganesh_BlackColor_10">#7B7B7B</color>
+    <color name="Ganesh_BlackColor_11">#3A3A3A</color>
+    <color name="Ganesh_BlackColor_12">#B2B2B2</color>
+    <color name="Ganesh_BlackColor_13">#8c8c8c</color>
+    <color name="Ganesh_BlackColor_14">#395062</color>
+    <color name="Ganesh_BlackColor_15">#80000000</color>
+    <color name="Ganesh_BlackColor_16">#636363</color>
+    <color name="Ganesh_BlackColor_17">#898989</color>
+    <color name="Ganesh_BlackColor_18">#e3e3e3</color>
+    <color name="Ganesh_BlackColor_19">#565656</color>
+    <color name="Ganesh_BlackColor_20">#F0F0F0</color>
+    <color name="Ganesh_BlackColor_21">#6C6C6C</color>
+    <color name="Ganesh_BlackColor_22">#373737</color>
+    <color name="Ganesh_BlackColor_23">#C6C6C6</color>
+    <color name="Ganesh_BlackColor_24">#C8C8C8</color>
+    <color name="Ganesh_BlackColor_25">#8b8b8b</color>
+    <color name="Ganesh_BlackColor_26">#2c2c2c</color>
+    <color name="Ganesh_BlackColor_27">#DEDEDE</color>
+    <color name="Ganesh_BlackColor_28">#c7c7c7</color>
+    <color name="Ganesh_BlackColor_29">#707070</color>
+    <color name="Ganesh_BlackColor_30">#64101010</color>
+    <color name="Ganesh_BlackColor_31">#515151</color>
+    <color name="Ganesh_BlackColor_32">#424242</color>
+    <color name="Ganesh_BlackColor_33">#353535</color>
+    <color name="Ganesh_BlackColor_34">#888687</color>
+    <color name="Ganesh_BlackColor_35">#2E2E2E</color>
+    <color name="Ganesh_BlackColor_36">#757575</color>
+    <color name="Ganesh_BlackColor_37">#BA101010</color>
+    <color name="Ganesh_BlackColor_38">#D2D2D2</color>
+    <color name="Ganesh_BlackColor_39">#494949</color>
+    <color name="Ganesh_BlackColor_40">#595959</color>
+    <color name="Ganesh_BlackColor_41">#474747</color>
+    <color name="Ganesh_GreenColor_1">#0C9A21</color>
+    <color name="Ganesh_GreenColor_2">#098B99</color>
+    <color name="Ganesh_GreenColor_3">#018498</color>
+    <color name="Ganesh_GreenColor_4">#257D8D</color>
+    <color name="Ganesh_GreenColor_5">#3C97A2</color>
+    <color name="Ganesh_GreenColor_6">#19808E</color>
+    <color name="Ganesh_GreenColor_7">#12A3B4</color>
+    <color name="Ganesh_GreenColor_8">#1A818F</color>
+    <color name="Ganesh_goal_blue">#1E2A5E</color>
+    <color name="Ganesh_goal_header">#8E92AD</color>
+    <color name="Ganesh_goal_child_header">#A2AEBC</color>
+    <color name="Ganesh_goal_progress">#F16067</color>
+    <color name="Ganesh_goal_background">#E2E9F1</color>
+    <color name="Ganesh_goal_light_blue">#3F89C8</color>
+    <color name="Ganesh_goal_txt_light_blue">#C9DEEE</color>
+    <color name="Ganesh_goal_txt_light_gray">#B5BFC9</color>
+    <!-- colors for Ganesh (End) -->
+
+    <!--for all color codes-->
+    <!--https://www.computerhope.com/cgi-bin/htmlcolor.pl?c=7B6B67-->
+
+    <!-- colors for Ganga (Start) -->
+    <color name="Ganga_colorPrimary">#4E342E</color>
+    <color name="Ganga_colorPrimaryDark">#350D13</color>
+    <color name="Ganga_colorAccent">#5D4037</color>
+    <color name="Ganga_colorToolbar_bg">#3E2723</color>
+    <color name="Ganga_color_AppBg">#EBEBEB</color>
+    <color name="Ganga_LoginBtn_bg">#0050a1</color>
+
+    <color name="Ganga_WhiteColor_1">#FCFCFC</color>
+    <color name="Ganga_WhiteColor_2">#feffff</color>
+    <color name="Ganga_WhiteColor_3">#d2ffffff</color>
+    <color name="Ganga_TextColorWhite">#FFFFFF</color>
+    <color name="Ganga_TextColorBlack">#000000</color>
+    <color name="Ganga_TextColorForgot">#004783</color>
+    <color name="Ganga_TextColorVersion">#696969</color>
+    <color name="Ganga_TextColorFacebook">#456EB4</color>
+    <color name="Ganga_ColorFacebook_Blue">#3B5998</color>
+    <color name="Ganga_TextColorGooglePlus">#8D6E63</color>
+    <color name="Ganga_EdtTextHintColor">#363636</color>
+    <color name="Ganga_YellowColor_1">#f9f93d</color>
+    <color name="Ganga_BgColorDark_1">#959595</color>
+
+
+
+    <color name="Ganga_RedColor_1">#5D4D49</color>
+    <color name="Ganga_RedColor_2">#71615D</color>
+    <color name="Ganga_RedColor_3">#8D6E63</color>
+    <color name="Ganga_RedColor_4">#8D6E63</color>
+    <color name="Ganga_RedColor_5">#7B6B67</color>
+    <color name="Ganga_RedColor_6">#8F7F7B</color>
+    <color name="Ganga_RedColor_7">#A3938F</color>
+    <color name="Ganga_RedColor_8">#AD9D99</color>
+
+    <color name="Ganga_BlueColor_1">#004B80</color>
+    <color name="Ganga_BlueColor_2">#08878f</color>
+    <color name="Ganga_BlueColor_3">#6cc0ca</color>
+    <color name="Ganga_BlueColor_4">#7aa8d9</color>
+    <color name="Ganga_BlueColor_5">#0050a1</color>
+    <color name="Ganga_BlueColor_6">#8D6E63</color>
+    <color name="Ganga_BlueColor_7">#21456C</color>
+    <color name="Ganga_BlueColor_8">#00507F</color>
+    <color name="Ganga_BlueColor_9">#004F7C</color>
+    <color name="Ganga_BlueColor_10">#6EC6B7</color>
+    <color name="Ganga_BlueColor_11">#1F587F</color>
+    <color name="Ganga_BlueColor_12">#204C70</color>
+    <color name="Ganga_BlueColor_13">#246da3</color>
+    <color name="Ganga_BlueColor_14">#20567E</color>
+    <color name="Ganga_BlueColor_15">#30546F</color>
+    <color name="Ganga_BlueColor_16">#00aeef</color>
+    <color name="Ganga_BlueColor_17">#1E557F</color>
+    <color name="Ganga_BlueColor_18">#067888</color>
+    <color name="Ganga_BlueColor_19">#215073</color>
+    <color name="Ganga_BlackColor_0">#00000000</color>
+    <color name="Ganga_BlackColor_1">#252525</color>
+    <color name="Ganga_BlackColor_2">#929091</color>
+    <color name="Ganga_BlackColor_3">#C5C5C5</color>
+    <color name="Ganga_BlackColor_4">#555555</color>
+    <color name="Ganga_BlackColor_5">#E2E2E2</color>
+    <color name="Ganga_BlackColor_6">#5A5A5A</color>
+    <color name="Ganga_BlackColor_7">#7C7C7C</color>
+    <color name="Ganga_BlackColor_8">#0D325B</color>
+    <color name="Ganga_BlackColor_9">#bababa</color>
+    <color name="Ganga_BlackColor_10">#7B7B7B</color>
+    <color name="Ganga_BlackColor_11">#3A3A3A</color>
+    <color name="Ganga_BlackColor_12">#B2B2B2</color>
+    <color name="Ganga_BlackColor_13">#8c8c8c</color>
+    <color name="Ganga_BlackColor_14">#395062</color>
+    <color name="Ganga_BlackColor_15">#80000000</color>
+    <color name="Ganga_BlackColor_16">#636363</color>
+    <color name="Ganga_BlackColor_17">#898989</color>
+    <color name="Ganga_BlackColor_18">#e3e3e3</color>
+    <color name="Ganga_BlackColor_19">#565656</color>
+    <color name="Ganga_BlackColor_20">#F0F0F0</color>
+    <color name="Ganga_BlackColor_21">#6C6C6C</color>
+    <color name="Ganga_BlackColor_22">#373737</color>
+    <color name="Ganga_BlackColor_23">#C6C6C6</color>
+    <color name="Ganga_BlackColor_24">#C8C8C8</color>
+    <color name="Ganga_BlackColor_25">#8b8b8b</color>
+    <color name="Ganga_BlackColor_26">#2c2c2c</color>
+    <color name="Ganga_BlackColor_27">#DEDEDE</color>
+    <color name="Ganga_BlackColor_28">#c7c7c7</color>
+    <color name="Ganga_BlackColor_29">#707070</color>
+    <color name="Ganga_BlackColor_30">#64101010</color>
+    <color name="Ganga_BlackColor_31">#515151</color>
+    <color name="Ganga_BlackColor_32">#424242</color>
+    <color name="Ganga_BlackColor_33">#353535</color>
+    <color name="Ganga_BlackColor_34">#888687</color>
+    <color name="Ganga_BlackColor_35">#2E2E2E</color>
+    <color name="Ganga_BlackColor_36">#757575</color>
+    <color name="Ganga_BlackColor_37">#BA101010</color>
+    <color name="Ganga_BlackColor_38">#D2D2D2</color>
+    <color name="Ganga_BlackColor_39">#494949</color>
+    <color name="Ganga_BlackColor_40">#595959</color>
+    <color name="Ganga_BlackColor_41">#474747</color>
+    <color name="Ganga_GreenColor_1">#0C9A21</color>
+    <color name="Ganga_GreenColor_2">#098B99</color>
+    <color name="Ganga_GreenColor_3">#018498</color>
+    <color name="Ganga_GreenColor_4">#257D8D</color>
+    <color name="Ganga_GreenColor_5">#3C97A2</color>
+    <color name="Ganga_GreenColor_6">#19808E</color>
+    <color name="Ganga_GreenColor_7">#12A3B4</color>
+    <color name="Ganga_GreenColor_8">#1A818F</color>
+    <color name="Ganga_goal_blue">#1E2A5E</color>
+    <color name="Ganga_goal_header">#8E92AD</color>
+    <color name="Ganga_goal_child_header">#A2AEBC</color>
+    <color name="Ganga_goal_progress">#F16067</color>
+    <color name="Ganga_goal_background">#E2E9F1</color>
+    <color name="Ganga_goal_light_blue">#3F89C8</color>
+    <color name="Ganga_goal_txt_light_blue">#C9DEEE</color>
+    <color name="Ganga_goal_txt_light_gray">#B5BFC9</color>
+    <!-- colors for Ganga (End) -->
+
+
+    <!-- colors for RupeeFin (Start) -->
+    <color name="RupeeFin_colorPrimary">#2196F3</color>
+    <color name="RupeeFin_colorPrimaryDark">#1976D2</color>
+    <color name="RupeeFin_colorAccent">#03A9F4</color>
+    <color name="RupeeFin_colorToolbar_bg">#2196F3</color>
+    <color name="RupeeFin_color_AppBg">#EBEBEB</color>
+    <color name="RupeeFin_LoginBtn_bg">#0050a1</color>
+
+    <color name="RupeeFin_WhiteColor_1">#FCFCFC</color>
+    <color name="RupeeFin_WhiteColor_2">#feffff</color>
+    <color name="RupeeFin_WhiteColor_3">#d2ffffff</color>
+    <color name="RupeeFin_TextColorWhite">#FFFFFF</color>
+    <color name="RupeeFin_TextColorBlack">#000000</color>
+    <color name="RupeeFin_TextColorForgot">#004783</color>
+    <color name="RupeeFin_TextColorVersion">#696969</color>
+    <color name="RupeeFin_TextColorFacebook">#456EB4</color>
+    <color name="RupeeFin_ColorFacebook_Blue">#3B5998</color>
+    <color name="RupeeFin_TextColorGooglePlus">#76c7e8</color>
+    <color name="RupeeFin_EdtTextHintColor">#363636</color>
+    <color name="RupeeFin_YellowColor_1">#f9f93d</color>
+    <color name="RupeeFin_BgColorDark_1">#959595</color>
+
+
+
+    <color name="RupeeFin_RedColor_1">#1E88E5</color>
+    <color name="RupeeFin_RedColor_2">#42A5F5</color>
+    <color name="RupeeFin_RedColor_3">#21b2ef</color>
+    <color name="RupeeFin_RedColor_4">#46bff2</color>
+    <color name="RupeeFin_RedColor_5">#6bccf5</color>
+    <color name="RupeeFin_RedColor_6">#8fd8f7</color>
+    <color name="RupeeFin_RedColor_7">#a2dff8</color>
+    <color name="RupeeFin_RedColor_8">#b4e5fa</color>
+
+    <color name="RupeeFin_BlueColor_1">#004B80</color>
+    <color name="RupeeFin_BlueColor_2">#08878f</color>
+    <color name="RupeeFin_BlueColor_3">#6cc0ca</color>
+    <color name="RupeeFin_BlueColor_4">#7aa8d9</color>
+    <color name="RupeeFin_BlueColor_5">#0050a1</color>
+    <color name="RupeeFin_BlueColor_6">#77c7e9</color>
+    <color name="RupeeFin_BlueColor_7">#21456C</color>
+    <color name="RupeeFin_BlueColor_8">#00507F</color>
+    <color name="RupeeFin_BlueColor_9">#004F7C</color>
+    <color name="RupeeFin_BlueColor_10">#6EC6B7</color>
+    <color name="RupeeFin_BlueColor_11">#1F587F</color>
+    <color name="RupeeFin_BlueColor_12">#204C70</color>
+    <color name="RupeeFin_BlueColor_13">#246da3</color>
+    <color name="RupeeFin_BlueColor_14">#20567E</color>
+    <color name="RupeeFin_BlueColor_15">#30546F</color>
+    <color name="RupeeFin_BlueColor_16">#00aeef</color>
+    <color name="RupeeFin_BlueColor_17">#1E557F</color>
+    <color name="RupeeFin_BlueColor_18">#067888</color>
+    <color name="RupeeFin_BlueColor_19">#215073</color>
+    <color name="RupeeFin_BlackColor_0">#00000000</color>
+    <color name="RupeeFin_BlackColor_1">#252525</color>
+    <color name="RupeeFin_BlackColor_2">#929091</color>
+    <color name="RupeeFin_BlackColor_3">#C5C5C5</color>
+    <color name="RupeeFin_BlackColor_4">#555555</color>
+    <color name="RupeeFin_BlackColor_5">#E2E2E2</color>
+    <color name="RupeeFin_BlackColor_6">#5A5A5A</color>
+    <color name="RupeeFin_BlackColor_7">#7C7C7C</color>
+    <color name="RupeeFin_BlackColor_8">#0D325B</color>
+    <color name="RupeeFin_BlackColor_9">#bababa</color>
+    <color name="RupeeFin_BlackColor_10">#7B7B7B</color>
+    <color name="RupeeFin_BlackColor_11">#3A3A3A</color>
+    <color name="RupeeFin_BlackColor_12">#B2B2B2</color>
+    <color name="RupeeFin_BlackColor_13">#8c8c8c</color>
+    <color name="RupeeFin_BlackColor_14">#395062</color>
+    <color name="RupeeFin_BlackColor_15">#80000000</color>
+    <color name="RupeeFin_BlackColor_16">#636363</color>
+    <color name="RupeeFin_BlackColor_17">#898989</color>
+    <color name="RupeeFin_BlackColor_18">#e3e3e3</color>
+    <color name="RupeeFin_BlackColor_19">#565656</color>
+    <color name="RupeeFin_BlackColor_20">#F0F0F0</color>
+    <color name="RupeeFin_BlackColor_21">#6C6C6C</color>
+    <color name="RupeeFin_BlackColor_22">#373737</color>
+    <color name="RupeeFin_BlackColor_23">#C6C6C6</color>
+    <color name="RupeeFin_BlackColor_24">#C8C8C8</color>
+    <color name="RupeeFin_BlackColor_25">#8b8b8b</color>
+    <color name="RupeeFin_BlackColor_26">#2c2c2c</color>
+    <color name="RupeeFin_BlackColor_27">#DEDEDE</color>
+    <color name="RupeeFin_BlackColor_28">#c7c7c7</color>
+    <color name="RupeeFin_BlackColor_29">#707070</color>
+    <color name="RupeeFin_BlackColor_30">#64101010</color>
+    <color name="RupeeFin_BlackColor_31">#515151</color>
+    <color name="RupeeFin_BlackColor_32">#424242</color>
+    <color name="RupeeFin_BlackColor_33">#353535</color>
+    <color name="RupeeFin_BlackColor_34">#888687</color>
+    <color name="RupeeFin_BlackColor_35">#2E2E2E</color>
+    <color name="RupeeFin_BlackColor_36">#757575</color>
+    <color name="RupeeFin_BlackColor_37">#BA101010</color>
+    <color name="RupeeFin_BlackColor_38">#D2D2D2</color>
+    <color name="RupeeFin_BlackColor_39">#494949</color>
+    <color name="RupeeFin_BlackColor_40">#595959</color>
+    <color name="RupeeFin_BlackColor_41">#474747</color>
+    <color name="RupeeFin_GreenColor_1">#0C9A21</color>
+    <color name="RupeeFin_GreenColor_2">#098B99</color>
+    <color name="RupeeFin_GreenColor_3">#018498</color>
+    <color name="RupeeFin_GreenColor_4">#257D8D</color>
+    <color name="RupeeFin_GreenColor_5">#3C97A2</color>
+    <color name="RupeeFin_GreenColor_6">#19808E</color>
+    <color name="RupeeFin_GreenColor_7">#12A3B4</color>
+    <color name="RupeeFin_GreenColor_8">#1A818F</color>
+    <color name="RupeeFin_goal_blue">#1E2A5E</color>
+    <color name="RupeeFin_goal_header">#8E92AD</color>
+    <color name="RupeeFin_goal_child_header">#A2AEBC</color>
+    <color name="RupeeFin_goal_progress">#F16067</color>
+    <color name="RupeeFin_goal_background">#E2E9F1</color>
+    <color name="RupeeFin_goal_light_blue">#3F89C8</color>
+    <color name="RupeeFin_goal_txt_light_blue">#C9DEEE</color>
+    <color name="RupeeFin_goal_txt_light_gray">#B5BFC9</color>
+    <!-- colors for RUpeeFin (End) -->
+
+
+
+    <!-- colors for Mirr (Start) -->
+    <color name="Mirr_colorPrimary">#424242</color>
+    <color name="Mirr_colorPrimaryDark">#212121</color>
+    <color name="Mirr_colorAccent">#616161</color>
+    <color name="Mirr_colorToolbar_bg">#424242</color>
+    <color name="Mirr_color_AppBg">#EBEBEB</color>
+    <color name="Mirr_LoginBtn_bg">#0050a1</color>
+
+    <color name="Mirr_WhiteColor_1">#FCFCFC</color>
+    <color name="Mirr_WhiteColor_2">#feffff</color>
+    <color name="Mirr_WhiteColor_3">#d2ffffff</color>
+    <color name="Mirr_TextColorWhite">#FFFFFF</color>
+    <color name="Mirr_TextColorBlack">#000000</color>
+    <color name="Mirr_TextColorForgot">#004783</color>
+    <color name="Mirr_TextColorVersion">#696969</color>
+    <color name="Mirr_TextColorFacebook">#456EB4</color>
+    <color name="Mirr_ColorFacebook_Blue">#3B5998</color>
+    <color name="Mirr_TextColorGooglePlus">#808080</color>
+    <color name="Mirr_EdtTextHintColor">#363636</color>
+    <color name="Mirr_YellowColor_1">#f9f93d</color>
+    <color name="Mirr_BgColorDark_1">#959595</color>
+
+
+
+    <color name="Mirr_RedColor_1">#444444</color>
+    <color name="Mirr_RedColor_2">#585858</color>
+    <color name="Mirr_RedColor_3">#6C6C6C</color>
+    <color name="Mirr_RedColor_4">#808080</color>
+    <color name="Mirr_RedColor_5">#949494</color>
+    <color name="Mirr_RedColor_6">#A8A8A8</color>
+    <color name="Mirr_RedColor_7">#BCBCBC</color>
+    <color name="Mirr_RedColor_8">#C6C6C6</color>
+
+    <color name="Mirr_BlueColor_1">#004B80</color>
+    <color name="Mirr_BlueColor_2">#08878f</color>
+    <color name="Mirr_BlueColor_3">#6cc0ca</color>
+    <color name="Mirr_BlueColor_4">#7aa8d9</color>
+    <color name="Mirr_BlueColor_5">#0050a1</color>
+    <color name="Mirr_BlueColor_6">#808080</color>
+    <color name="Mirr_BlueColor_7">#21456C</color>
+    <color name="Mirr_BlueColor_8">#00507F</color>
+    <color name="Mirr_BlueColor_9">#004F7C</color>
+    <color name="Mirr_BlueColor_10">#6EC6B7</color>
+    <color name="Mirr_BlueColor_11">#1F587F</color>
+    <color name="Mirr_BlueColor_12">#204C70</color>
+    <color name="Mirr_BlueColor_13">#246da3</color>
+    <color name="Mirr_BlueColor_14">#20567E</color>
+    <color name="Mirr_BlueColor_15">#30546F</color>
+    <color name="Mirr_BlueColor_16">#00aeef</color>
+    <color name="Mirr_BlueColor_17">#1E557F</color>
+    <color name="Mirr_BlueColor_18">#067888</color>
+    <color name="Mirr_BlueColor_19">#215073</color>
+    <color name="Mirr_BlackColor_0">#00000000</color>
+    <color name="Mirr_BlackColor_1">#252525</color>
+    <color name="Mirr_BlackColor_2">#929091</color>
+    <color name="Mirr_BlackColor_3">#C5C5C5</color>
+    <color name="Mirr_BlackColor_4">#555555</color>
+    <color name="Mirr_BlackColor_5">#E2E2E2</color>
+    <color name="Mirr_BlackColor_6">#5A5A5A</color>
+    <color name="Mirr_BlackColor_7">#7C7C7C</color>
+    <color name="Mirr_BlackColor_8">#0D325B</color>
+    <color name="Mirr_BlackColor_9">#bababa</color>
+    <color name="Mirr_BlackColor_10">#7B7B7B</color>
+    <color name="Mirr_BlackColor_11">#3A3A3A</color>
+    <color name="Mirr_BlackColor_12">#B2B2B2</color>
+    <color name="Mirr_BlackColor_13">#8c8c8c</color>
+    <color name="Mirr_BlackColor_14">#395062</color>
+    <color name="Mirr_BlackColor_15">#80000000</color>
+    <color name="Mirr_BlackColor_16">#636363</color>
+    <color name="Mirr_BlackColor_17">#898989</color>
+    <color name="Mirr_BlackColor_18">#e3e3e3</color>
+    <color name="Mirr_BlackColor_19">#565656</color>
+    <color name="Mirr_BlackColor_20">#F0F0F0</color>
+    <color name="Mirr_BlackColor_21">#6C6C6C</color>
+    <color name="Mirr_BlackColor_22">#373737</color>
+    <color name="Mirr_BlackColor_23">#C6C6C6</color>
+    <color name="Mirr_BlackColor_24">#C8C8C8</color>
+    <color name="Mirr_BlackColor_25">#8b8b8b</color>
+    <color name="Mirr_BlackColor_26">#2c2c2c</color>
+    <color name="Mirr_BlackColor_27">#DEDEDE</color>
+    <color name="Mirr_BlackColor_28">#c7c7c7</color>
+    <color name="Mirr_BlackColor_29">#707070</color>
+    <color name="Mirr_BlackColor_30">#64101010</color>
+    <color name="Mirr_BlackColor_31">#515151</color>
+    <color name="Mirr_BlackColor_32">#424242</color>
+    <color name="Mirr_BlackColor_33">#353535</color>
+    <color name="Mirr_BlackColor_34">#888687</color>
+    <color name="Mirr_BlackColor_35">#2E2E2E</color>
+    <color name="Mirr_BlackColor_36">#757575</color>
+    <color name="Mirr_BlackColor_37">#BA101010</color>
+    <color name="Mirr_BlackColor_38">#D2D2D2</color>
+    <color name="Mirr_BlackColor_39">#494949</color>
+    <color name="Mirr_BlackColor_40">#595959</color>
+    <color name="Mirr_BlackColor_41">#474747</color>
+    <color name="Mirr_GreenColor_1">#0C9A21</color>
+    <color name="Mirr_GreenColor_2">#098B99</color>
+    <color name="Mirr_GreenColor_3">#018498</color>
+    <color name="Mirr_GreenColor_4">#257D8D</color>
+    <color name="Mirr_GreenColor_5">#3C97A2</color>
+    <color name="Mirr_GreenColor_6">#19808E</color>
+    <color name="Mirr_GreenColor_7">#12A3B4</color>
+    <color name="Mirr_GreenColor_8">#1A818F</color>
+    <color name="Mirr_goal_blue">#1E2A5E</color>
+    <color name="Mirr_goal_header">#8E92AD</color>
+    <color name="Mirr_goal_child_header">#A2AEBC</color>
+    <color name="Mirr_goal_progress">#F16067</color>
+    <color name="Mirr_goal_background">#E2E9F1</color>
+    <color name="Mirr_goal_light_blue">#3F89C8</color>
+    <color name="Mirr_goal_txt_light_blue">#C9DEEE</color>
+    <color name="Mirr_goal_txt_light_gray">#B5BFC9</color>
+    <!-- colors for Mirr (End) -->
+
+
+
+    <!-- colors for Bansal (Start) -->
+    <color name="Bansal_colorPrimary">#1b2234</color>
+    <color name="Bansal_colorPrimaryDark">#1b2234</color>
+    <color name="Bansal_colorAccent">#364469</color>
+    <color name="Bansal_colorToolbar_bg">#475478</color>
+    <color name="Bansal_color_AppBg">#EBEBEB</color>
+    <color name="Bansal_LoginBtn_bg">#0050a1</color>
+
+    <color name="Bansal_WhiteColor_1">#FCFCFC</color>
+    <color name="Bansal_WhiteColor_2">#feffff</color>
+    <color name="Bansal_WhiteColor_3">#d2ffffff</color>
+    <color name="Bansal_TextColorWhite">#FFFFFF</color>
+    <color name="Bansal_TextColorBlack">#000000</color>
+    <color name="Bansal_TextColorForgot">#004783</color>
+    <color name="Bansal_TextColorVersion">#696969</color>
+    <color name="Bansal_TextColorFacebook">#456EB4</color>
+    <color name="Bansal_ColorFacebook_Blue">#3B5998</color>
+    <color name="Bansal_TextColorGooglePlus">#4a5678</color>
+    <color name="Bansal_EdtTextHintColor">#363636</color>
+    <color name="Bansal_YellowColor_1">#f9f93d</color>
+    <color name="Bansal_BgColorDark_1">#959595</color>
+
+
+    <color name="Bansal_RedColor_1">#313848</color>
+    <color name="Bansal_RedColor_2">#2c313e</color>
+    <color name="Bansal_RedColor_3">#484e5c</color>
+    <color name="Bansal_RedColor_4">#434853</color>
+    <color name="Bansal_RedColor_5">#5b5f69</color>
+    <color name="Bansal_RedColor_6">#72767e</color>
+    <color name="Bansal_RedColor_7">#8a8d94</color>
+    <color name="Bansal_RedColor_8">#a1a3a9</color>
+
+    <color name="Bansal_BlueColor_1">#004B80</color>
+    <color name="Bansal_BlueColor_2">#08878f</color>
+    <color name="Bansal_BlueColor_3">#6cc0ca</color>
+    <color name="Bansal_BlueColor_4">#7aa8d9</color>
+    <color name="Bansal_BlueColor_5">#0050a1</color>
+    <color name="Bansal_BlueColor_6">#292f39</color>
+    <color name="Bansal_BlueColor_7">#21456C</color>
+    <color name="Bansal_BlueColor_8">#00507F</color>
+    <color name="Bansal_BlueColor_9">#004F7C</color>
+    <color name="Bansal_BlueColor_10">#6EC6B7</color>
+    <color name="Bansal_BlueColor_11">#1F587F</color>
+    <color name="Bansal_BlueColor_12">#204C70</color>
+    <color name="Bansal_BlueColor_13">#246da3</color>
+    <color name="Bansal_BlueColor_14">#20567E</color>
+    <color name="Bansal_BlueColor_15">#30546F</color>
+    <color name="Bansal_BlueColor_16">#00aeef</color>
+    <color name="Bansal_BlueColor_17">#1E557F</color>
+    <color name="Bansal_BlueColor_18">#067888</color>
+    <color name="Bansal_BlueColor_19">#215073</color>
+    <color name="Bansal_BlackColor_0">#00000000</color>
+    <color name="Bansal_BlackColor_1">#252525</color>
+    <color name="Bansal_BlackColor_2">#929091</color>
+    <color name="Bansal_BlackColor_3">#C5C5C5</color>
+    <color name="Bansal_BlackColor_4">#555555</color>
+    <color name="Bansal_BlackColor_5">#E2E2E2</color>
+    <color name="Bansal_BlackColor_6">#5A5A5A</color>
+    <color name="Bansal_BlackColor_7">#7C7C7C</color>
+    <color name="Bansal_BlackColor_8">#0D325B</color>
+    <color name="Bansal_BlackColor_9">#bababa</color>
+    <color name="Bansal_BlackColor_10">#7B7B7B</color>
+    <color name="Bansal_BlackColor_11">#3A3A3A</color>
+    <color name="Bansal_BlackColor_12">#B2B2B2</color>
+    <color name="Bansal_BlackColor_13">#8c8c8c</color>
+    <color name="Bansal_BlackColor_14">#395062</color>
+    <color name="Bansal_BlackColor_15">#80000000</color>
+    <color name="Bansal_BlackColor_16">#636363</color>
+    <color name="Bansal_BlackColor_17">#898989</color>
+    <color name="Bansal_BlackColor_18">#e3e3e3</color>
+    <color name="Bansal_BlackColor_19">#565656</color>
+    <color name="Bansal_BlackColor_20">#F0F0F0</color>
+    <color name="Bansal_BlackColor_21">#6C6C6C</color>
+    <color name="Bansal_BlackColor_22">#373737</color>
+    <color name="Bansal_BlackColor_23">#C6C6C6</color>
+    <color name="Bansal_BlackColor_24">#C8C8C8</color>
+    <color name="Bansal_BlackColor_25">#8b8b8b</color>
+    <color name="Bansal_BlackColor_26">#2c2c2c</color>
+    <color name="Bansal_BlackColor_27">#DEDEDE</color>
+    <color name="Bansal_BlackColor_28">#c7c7c7</color>
+    <color name="Bansal_BlackColor_29">#707070</color>
+    <color name="Bansal_BlackColor_30">#64101010</color>
+    <color name="Bansal_BlackColor_31">#515151</color>
+    <color name="Bansal_BlackColor_32">#424242</color>
+    <color name="Bansal_BlackColor_33">#353535</color>
+    <color name="Bansal_BlackColor_34">#888687</color>
+    <color name="Bansal_BlackColor_35">#2E2E2E</color>
+    <color name="Bansal_BlackColor_36">#757575</color>
+    <color name="Bansal_BlackColor_37">#BA101010</color>
+    <color name="Bansal_BlackColor_38">#D2D2D2</color>
+    <color name="Bansal_BlackColor_39">#494949</color>
+    <color name="Bansal_BlackColor_40">#595959</color>
+    <color name="Bansal_BlackColor_41">#474747</color>
+    <color name="Bansal_GreenColor_1">#0C9A21</color>
+    <color name="Bansal_GreenColor_2">#098B99</color>
+    <color name="Bansal_GreenColor_3">#018498</color>
+    <color name="Bansal_GreenColor_4">#257D8D</color>
+    <color name="Bansal_GreenColor_5">#3C97A2</color>
+    <color name="Bansal_GreenColor_6">#19808E</color>
+    <color name="Bansal_GreenColor_7">#12A3B4</color>
+    <color name="Bansal_GreenColor_8">#1A818F</color>
+    <color name="Bansal_goal_blue">#1E2A5E</color>
+    <color name="Bansal_goal_header">#8E92AD</color>
+    <color name="Bansal_goal_child_header">#A2AEBC</color>
+    <color name="Bansal_goal_progress">#F16067</color>
+    <color name="Bansal_goal_background">#E2E9F1</color>
+    <color name="Bansal_goal_light_blue">#3F89C8</color>
+    <color name="Bansal_goal_txt_light_blue">#C9DEEE</color>
+    <color name="Bansal_goal_txt_light_gray">#B5BFC9</color>
+    <!-- colors for Bansal (End) -->
+
+
+
+
+    <!-- colors for Viastar (Start) -->
+    <color name="Viastar_colorPrimary">#388E3C</color>
+    <color name="Viastar_colorPrimaryDark">#205723</color>
+    <color name="Viastar_colorAccent">#2e7d32</color>
+    <color name="Viastar_colorToolbar_bg">#475478</color>
+    <color name="Viastar_color_AppBg">#EBEBEB</color>
+    <color name="Viastar_LoginBtn_bg">#0050a1</color>
+
+    <color name="Viastar_WhiteColor_1">#FCFCFC</color>
+    <color name="Viastar_WhiteColor_2">#feffff</color>
+    <color name="Viastar_WhiteColor_3">#d2ffffff</color>
+    <color name="Viastar_TextColorWhite">#FFFFFF</color>
+    <color name="Viastar_TextColorBlack">#000000</color>
+    <color name="Viastar_TextColorForgot">#004783</color>
+    <color name="Viastar_TextColorVersion">#696969</color>
+    <color name="Viastar_TextColorFacebook">#456EB4</color>
+    <color name="Viastar_ColorFacebook_Blue">#3B5998</color>
+    <color name="Viastar_TextColorGooglePlus">#4a5678</color>
+    <color name="Viastar_EdtTextHintColor">#363636</color>
+    <color name="Viastar_YellowColor_1">#f9f93d</color>
+    <color name="Viastar_BgColorDark_1">#959595</color>
+
+
+    <color name="Viastar_RedColor_1">#29702d</color>
+    <color name="Viastar_RedColor_2">#2e7d32</color>
+    <color name="Viastar_RedColor_3">#428a46</color>
+    <color name="Viastar_RedColor_4">#57975a</color>
+    <color name="Viastar_RedColor_5">#6ca46f</color>
+    <color name="Viastar_RedColor_6">#96be98</color>
+    <color name="Viastar_RedColor_7">#81b184</color>
+    <color name="Viastar_RedColor_8">#c0d8c1</color>
+
+    <color name="Viastar_BlueColor_1">#004B80</color>
+    <color name="Viastar_BlueColor_2">#08878f</color>
+    <color name="Viastar_BlueColor_3">#6cc0ca</color>
+    <color name="Viastar_BlueColor_4">#7aa8d9</color>
+    <color name="Viastar_BlueColor_5">#0050a1</color>
+    <color name="Viastar_BlueColor_6">#57975a</color>
+    <color name="Viastar_BlueColor_7">#21456C</color>
+    <color name="Viastar_BlueColor_8">#00507F</color>
+    <color name="Viastar_BlueColor_9">#004F7C</color>
+    <color name="Viastar_BlueColor_10">#6EC6B7</color>
+    <color name="Viastar_BlueColor_11">#1F587F</color>
+    <color name="Viastar_BlueColor_12">#204C70</color>
+    <color name="Viastar_BlueColor_13">#246da3</color>
+    <color name="Viastar_BlueColor_14">#20567E</color>
+    <color name="Viastar_BlueColor_15">#30546F</color>
+    <color name="Viastar_BlueColor_16">#00aeef</color>
+    <color name="Viastar_BlueColor_17">#1E557F</color>
+    <color name="Viastar_BlueColor_18">#067888</color>
+    <color name="Viastar_BlueColor_19">#215073</color>
+    <color name="Viastar_BlackColor_0">#00000000</color>
+    <color name="Viastar_BlackColor_1">#252525</color>
+    <color name="Viastar_BlackColor_2">#929091</color>
+    <color name="Viastar_BlackColor_3">#C5C5C5</color>
+    <color name="Viastar_BlackColor_4">#555555</color>
+    <color name="Viastar_BlackColor_5">#E2E2E2</color>
+    <color name="Viastar_BlackColor_6">#5A5A5A</color>
+    <color name="Viastar_BlackColor_7">#7C7C7C</color>
+    <color name="Viastar_BlackColor_8">#0D325B</color>
+    <color name="Viastar_BlackColor_9">#bababa</color>
+    <color name="Viastar_BlackColor_10">#7B7B7B</color>
+    <color name="Viastar_BlackColor_11">#3A3A3A</color>
+    <color name="Viastar_BlackColor_12">#B2B2B2</color>
+    <color name="Viastar_BlackColor_13">#8c8c8c</color>
+    <color name="Viastar_BlackColor_14">#395062</color>
+    <color name="Viastar_BlackColor_15">#80000000</color>
+    <color name="Viastar_BlackColor_16">#636363</color>
+    <color name="Viastar_BlackColor_17">#898989</color>
+    <color name="Viastar_BlackColor_18">#e3e3e3</color>
+    <color name="Viastar_BlackColor_19">#565656</color>
+    <color name="Viastar_BlackColor_20">#F0F0F0</color>
+    <color name="Viastar_BlackColor_21">#6C6C6C</color>
+    <color name="Viastar_BlackColor_22">#373737</color>
+    <color name="Viastar_BlackColor_23">#C6C6C6</color>
+    <color name="Viastar_BlackColor_24">#C8C8C8</color>
+    <color name="Viastar_BlackColor_25">#8b8b8b</color>
+    <color name="Viastar_BlackColor_26">#2c2c2c</color>
+    <color name="Viastar_BlackColor_27">#DEDEDE</color>
+    <color name="Viastar_BlackColor_28">#c7c7c7</color>
+    <color name="Viastar_BlackColor_29">#707070</color>
+    <color name="Viastar_BlackColor_30">#64101010</color>
+    <color name="Viastar_BlackColor_31">#515151</color>
+    <color name="Viastar_BlackColor_32">#424242</color>
+    <color name="Viastar_BlackColor_33">#353535</color>
+    <color name="Viastar_BlackColor_34">#888687</color>
+    <color name="Viastar_BlackColor_35">#2E2E2E</color>
+    <color name="Viastar_BlackColor_36">#757575</color>
+    <color name="Viastar_BlackColor_37">#BA101010</color>
+    <color name="Viastar_BlackColor_38">#D2D2D2</color>
+    <color name="Viastar_BlackColor_39">#494949</color>
+    <color name="Viastar_BlackColor_40">#595959</color>
+    <color name="Viastar_BlackColor_41">#474747</color>
+    <color name="Viastar_GreenColor_1">#0C9A21</color>
+    <color name="Viastar_GreenColor_2">#098B99</color>
+    <color name="Viastar_GreenColor_3">#018498</color>
+    <color name="Viastar_GreenColor_4">#257D8D</color>
+    <color name="Viastar_GreenColor_5">#3C97A2</color>
+    <color name="Viastar_GreenColor_6">#19808E</color>
+    <color name="Viastar_GreenColor_7">#12A3B4</color>
+    <color name="Viastar_GreenColor_8">#1A818F</color>
+    <color name="Viastar_goal_blue">#1E2A5E</color>
+    <color name="Viastar_goal_header">#8E92AD</color>
+    <color name="Viastar_goal_child_header">#A2AEBC</color>
+    <color name="Viastar_goal_progress">#F16067</color>
+    <color name="Viastar_goal_background">#E2E9F1</color>
+    <color name="Viastar_goal_light_blue">#3F89C8</color>
+    <color name="Viastar_goal_txt_light_blue">#C9DEEE</color>
+    <color name="Viastar_goal_txt_light_gray">#B5BFC9</color>
+    <!-- colors for Viastar (End) -->
+
+
+    <!-- colors for InvestRupee (Start) -->
+    <color name="InvestRupee_colorPrimary">#CC9A00</color>
+    <color name="InvestRupee_colorPrimaryDark">#B38600</color>
+    <color name="InvestRupee_colorAccent">#EDA600</color>
+    <color name="InvestRupee_colorToolbar_bg">#FFC000</color>
+    <color name="InvestRupee_color_AppBg">#EBEBEB</color>
+    <color name="InvestRupee_LoginBtn_bg">#0050a1</color>
+
+    <color name="InvestRupee_WhiteColor_1">#FCFCFC</color>
+    <color name="InvestRupee_WhiteColor_2">#feffff</color>
+    <color name="InvestRupee_WhiteColor_3">#d2ffffff</color>
+    <color name="InvestRupee_TextColorWhite">#FFFFFF</color>
+    <color name="InvestRupee_TextColorBlack">#000000</color>
+    <color name="InvestRupee_TextColorForgot">#004783</color>
+    <color name="InvestRupee_TextColorVersion">#696969</color>
+    <color name="InvestRupee_TextColorFacebook">#456EB4</color>
+    <color name="InvestRupee_ColorFacebook_Blue">#3B5998</color>
+    <color name="InvestRupee_TextColorGooglePlus">#FFB300</color>
+    <color name="InvestRupee_EdtTextHintColor">#363636</color>
+    <color name="InvestRupee_YellowColor_1">#FFA000</color>
+    <color name="InvestRupee_BgColorDark_1">#959595</color>
+
+    <color name="InvestRupee_RedColor_1">#FF6F00</color>
+    <color name="InvestRupee_RedColor_2">#FFB300</color>
+    <color name="InvestRupee_RedColor_3">#FFA000</color>
+    <color name="InvestRupee_RedColor_4">#FFB300</color>
+    <color name="InvestRupee_RedColor_5">#FFC107</color>
+    <color name="InvestRupee_RedColor_6">#FFCA28</color>
+    <color name="InvestRupee_RedColor_7">#FFD54F</color>
+    <color name="InvestRupee_RedColor_8">#FFECB3</color>
+
+
+    <color name="InvestRupee_BlueColor_1">#004B80</color>
+    <color name="InvestRupee_BlueColor_2">#08878f</color>
+    <color name="InvestRupee_BlueColor_3">#6cc0ca</color>
+    <color name="InvestRupee_BlueColor_4">#7aa8d9</color>
+    <color name="InvestRupee_BlueColor_5">#0050a1</color>
+    <color name="InvestRupee_BlueColor_6">#FFB300</color>
+    <color name="InvestRupee_BlueColor_7">#21456C</color>
+    <color name="InvestRupee_BlueColor_8">#00507F</color>
+    <color name="InvestRupee_BlueColor_9">#004F7C</color>
+    <color name="InvestRupee_BlueColor_10">#6EC6B7</color>
+    <color name="InvestRupee_BlueColor_11">#1F587F</color>
+    <color name="InvestRupee_BlueColor_12">#204C70</color>
+    <color name="InvestRupee_BlueColor_13">#246da3</color>
+    <color name="InvestRupee_BlueColor_14">#20567E</color>
+    <color name="InvestRupee_BlueColor_15">#30546F</color>
+    <color name="InvestRupee_BlueColor_16">#00aeef</color>
+    <color name="InvestRupee_BlueColor_17">#1E557F</color>
+    <color name="InvestRupee_BlueColor_18">#067888</color>
+    <color name="InvestRupee_BlueColor_19">#215073</color>
+    <color name="InvestRupee_BlackColor_0">#00000000</color>
+    <color name="InvestRupee_BlackColor_1">#252525</color>
+    <color name="InvestRupee_BlackColor_2">#929091</color>
+    <color name="InvestRupee_BlackColor_3">#C5C5C5</color>
+    <color name="InvestRupee_BlackColor_4">#555555</color>
+    <color name="InvestRupee_BlackColor_5">#E2E2E2</color>
+    <color name="InvestRupee_BlackColor_6">#5A5A5A</color>
+    <color name="InvestRupee_BlackColor_7">#7C7C7C</color>
+    <color name="InvestRupee_BlackColor_8">#0D325B</color>
+    <color name="InvestRupee_BlackColor_9">#bababa</color>
+    <color name="InvestRupee_BlackColor_10">#7B7B7B</color>
+    <color name="InvestRupee_BlackColor_11">#3A3A3A</color>
+    <color name="InvestRupee_BlackColor_12">#B2B2B2</color>
+    <color name="InvestRupee_BlackColor_13">#8c8c8c</color>
+    <color name="InvestRupee_BlackColor_14">#395062</color>
+    <color name="InvestRupee_BlackColor_15">#80000000</color>
+    <color name="InvestRupee_BlackColor_16">#636363</color>
+    <color name="InvestRupee_BlackColor_17">#898989</color>
+    <color name="InvestRupee_BlackColor_18">#e3e3e3</color>
+    <color name="InvestRupee_BlackColor_19">#565656</color>
+    <color name="InvestRupee_BlackColor_20">#F0F0F0</color>
+    <color name="InvestRupee_BlackColor_21">#6C6C6C</color>
+    <color name="InvestRupee_BlackColor_22">#373737</color>
+    <color name="InvestRupee_BlackColor_23">#C6C6C6</color>
+    <color name="InvestRupee_BlackColor_24">#C8C8C8</color>
+    <color name="InvestRupee_BlackColor_25">#8b8b8b</color>
+    <color name="InvestRupee_BlackColor_26">#2c2c2c</color>
+    <color name="InvestRupee_BlackColor_27">#DEDEDE</color>
+    <color name="InvestRupee_BlackColor_28">#c7c7c7</color>
+    <color name="InvestRupee_BlackColor_29">#707070</color>
+    <color name="InvestRupee_BlackColor_30">#64101010</color>
+    <color name="InvestRupee_BlackColor_31">#515151</color>
+    <color name="InvestRupee_BlackColor_32">#424242</color>
+    <color name="InvestRupee_BlackColor_33">#353535</color>
+    <color name="InvestRupee_BlackColor_34">#888687</color>
+    <color name="InvestRupee_BlackColor_35">#2E2E2E</color>
+    <color name="InvestRupee_BlackColor_36">#757575</color>
+    <color name="InvestRupee_BlackColor_37">#BA101010</color>
+    <color name="InvestRupee_BlackColor_38">#D2D2D2</color>
+    <color name="InvestRupee_BlackColor_39">#494949</color>
+    <color name="InvestRupee_BlackColor_40">#595959</color>
+    <color name="InvestRupee_BlackColor_41">#474747</color>
+    <color name="InvestRupee_GreenColor_1">#0C9A21</color>
+    <color name="InvestRupee_GreenColor_2">#098B99</color>
+    <color name="InvestRupee_GreenColor_3">#018498</color>
+    <color name="InvestRupee_GreenColor_4">#257D8D</color>
+    <color name="InvestRupee_GreenColor_5">#3C97A2</color>
+    <color name="InvestRupee_GreenColor_6">#19808E</color>
+    <color name="InvestRupee_GreenColor_7">#12A3B4</color>
+    <color name="InvestRupee_GreenColor_8">#1A818F</color>
+    <color name="InvestRupee_goal_blue">#1E2A5E</color>
+    <color name="InvestRupee_goal_header">#8E92AD</color>
+    <color name="InvestRupee_goal_child_header">#A2AEBC</color>
+    <color name="InvestRupee_goal_progress">#F16067</color>
+    <color name="InvestRupee_goal_background">#E2E9F1</color>
+    <color name="InvestRupee_goal_light_blue">#3F89C8</color>
+    <color name="InvestRupee_goal_txt_light_blue">#C9DEEE</color>
+    <color name="InvestRupee_goal_txt_light_gray">#B5BFC9</color>
+    <!-- colors for InvestRupee (End) -->
+
+
+
+    <!-- colors for EliteTeam (Start) -->
+    <color name="EliteTeam_colorPrimary">#F57C00</color>
+    <color name="EliteTeam_colorPrimaryDark">#E65100</color>
+    <color name="EliteTeam_colorAccent">#FFA000</color>
+    <color name="EliteTeam_colorToolbar_bg">#E3963E</color>
+    <color name="EliteTeam_color_AppBg">#EBEBEB</color>
+    <color name="EliteTeam_LoginBtn_bg">#0050a1</color>
+
+    <color name="EliteTeam_WhiteColor_1">#FCFCFC</color>
+    <color name="EliteTeam_WhiteColor_2">#feffff</color>
+    <color name="EliteTeam_WhiteColor_3">#d2ffffff</color>
+    <color name="EliteTeam_TextColorWhite">#FFFFFF</color>
+    <color name="EliteTeam_TextColorBlack">#000000</color>
+    <color name="EliteTeam_TextColorForgot">#004783</color>
+    <color name="EliteTeam_TextColorVersion">#696969</color>
+    <color name="EliteTeam_TextColorFacebook">#456EB4</color>
+    <color name="EliteTeam_ColorFacebook_Blue">#3B5998</color>
+    <color name="EliteTeam_TextColorGooglePlus">#FFB300</color>
+    <color name="EliteTeam_EdtTextHintColor">#363636</color>
+    <color name="EliteTeam_YellowColor_1">#FFA000</color>
+    <color name="EliteTeam_BgColorDark_1">#959595</color>
+
+    <color name="EliteTeam_RedColor_1">#FF6F00</color>
+    <color name="EliteTeam_RedColor_2">#FF8F00</color>
+    <color name="EliteTeam_RedColor_3">#FFA000</color>
+    <color name="EliteTeam_RedColor_4">#FFB300</color>
+    <color name="EliteTeam_RedColor_5">#FFC107</color>
+    <color name="EliteTeam_RedColor_6">#FFCA28</color>
+    <color name="EliteTeam_RedColor_7">#FFD54F</color>
+    <color name="EliteTeam_RedColor_8">#FFECB3</color>
+
+    <color name="EliteTeam_BlueColor_1">#004B80</color>
+    <color name="EliteTeam_BlueColor_2">#08878f</color>
+    <color name="EliteTeam_BlueColor_3">#6cc0ca</color>
+    <color name="EliteTeam_BlueColor_4">#7aa8d9</color>
+    <color name="EliteTeam_BlueColor_5">#0050a1</color>
+    <color name="EliteTeam_BlueColor_6">#FFA000</color>
+    <color name="EliteTeam_BlueColor_7">#21456C</color>
+    <color name="EliteTeam_BlueColor_8">#00507F</color>
+    <color name="EliteTeam_BlueColor_9">#004F7C</color>
+    <color name="EliteTeam_BlueColor_10">#6EC6B7</color>
+    <color name="EliteTeam_BlueColor_11">#1F587F</color>
+    <color name="EliteTeam_BlueColor_12">#204C70</color>
+    <color name="EliteTeam_BlueColor_13">#246da3</color>
+    <color name="EliteTeam_BlueColor_14">#20567E</color>
+    <color name="EliteTeam_BlueColor_15">#30546F</color>
+    <color name="EliteTeam_BlueColor_16">#00aeef</color>
+    <color name="EliteTeam_BlueColor_17">#1E557F</color>
+    <color name="EliteTeam_BlueColor_18">#067888</color>
+    <color name="EliteTeam_BlueColor_19">#215073</color>
+    <color name="EliteTeam_BlackColor_0">#00000000</color>
+    <color name="EliteTeam_BlackColor_1">#252525</color>
+    <color name="EliteTeam_BlackColor_2">#929091</color>
+    <color name="EliteTeam_BlackColor_3">#C5C5C5</color>
+    <color name="EliteTeam_BlackColor_4">#555555</color>
+    <color name="EliteTeam_BlackColor_5">#E2E2E2</color>
+    <color name="EliteTeam_BlackColor_6">#5A5A5A</color>
+    <color name="EliteTeam_BlackColor_7">#7C7C7C</color>
+    <color name="EliteTeam_BlackColor_8">#0D325B</color>
+    <color name="EliteTeam_BlackColor_9">#bababa</color>
+    <color name="EliteTeam_BlackColor_10">#7B7B7B</color>
+    <color name="EliteTeam_BlackColor_11">#3A3A3A</color>
+    <color name="EliteTeam_BlackColor_12">#B2B2B2</color>
+    <color name="EliteTeam_BlackColor_13">#8c8c8c</color>
+    <color name="EliteTeam_BlackColor_14">#395062</color>
+    <color name="EliteTeam_BlackColor_15">#80000000</color>
+    <color name="EliteTeam_BlackColor_16">#636363</color>
+    <color name="EliteTeam_BlackColor_17">#898989</color>
+    <color name="EliteTeam_BlackColor_18">#e3e3e3</color>
+    <color name="EliteTeam_BlackColor_19">#565656</color>
+    <color name="EliteTeam_BlackColor_20">#F0F0F0</color>
+    <color name="EliteTeam_BlackColor_21">#6C6C6C</color>
+    <color name="EliteTeam_BlackColor_22">#373737</color>
+    <color name="EliteTeam_BlackColor_23">#C6C6C6</color>
+    <color name="EliteTeam_BlackColor_24">#C8C8C8</color>
+    <color name="EliteTeam_BlackColor_25">#8b8b8b</color>
+    <color name="EliteTeam_BlackColor_26">#2c2c2c</color>
+    <color name="EliteTeam_BlackColor_27">#DEDEDE</color>
+    <color name="EliteTeam_BlackColor_28">#c7c7c7</color>
+    <color name="EliteTeam_BlackColor_29">#707070</color>
+    <color name="EliteTeam_BlackColor_30">#64101010</color>
+    <color name="EliteTeam_BlackColor_31">#515151</color>
+    <color name="EliteTeam_BlackColor_32">#424242</color>
+    <color name="EliteTeam_BlackColor_33">#353535</color>
+    <color name="EliteTeam_BlackColor_34">#888687</color>
+    <color name="EliteTeam_BlackColor_35">#2E2E2E</color>
+    <color name="EliteTeam_BlackColor_36">#757575</color>
+    <color name="EliteTeam_BlackColor_37">#BA101010</color>
+    <color name="EliteTeam_BlackColor_38">#D2D2D2</color>
+    <color name="EliteTeam_BlackColor_39">#494949</color>
+    <color name="EliteTeam_BlackColor_40">#595959</color>
+    <color name="EliteTeam_BlackColor_41">#474747</color>
+    <color name="EliteTeam_GreenColor_1">#0C9A21</color>
+    <color name="EliteTeam_GreenColor_2">#098B99</color>
+    <color name="EliteTeam_GreenColor_3">#018498</color>
+    <color name="EliteTeam_GreenColor_4">#257D8D</color>
+    <color name="EliteTeam_GreenColor_5">#3C97A2</color>
+    <color name="EliteTeam_GreenColor_6">#19808E</color>
+    <color name="EliteTeam_GreenColor_7">#12A3B4</color>
+    <color name="EliteTeam_GreenColor_8">#1A818F</color>
+    <color name="EliteTeam_goal_blue">#1E2A5E</color>
+    <color name="EliteTeam_goal_header">#8E92AD</color>
+    <color name="EliteTeam_goal_child_header">#A2AEBC</color>
+    <color name="EliteTeam_goal_progress">#F16067</color>
+    <color name="EliteTeam_goal_background">#E2E9F1</color>
+    <color name="EliteTeam_goal_light_blue">#3F89C8</color>
+    <color name="EliteTeam_goal_txt_light_blue">#C9DEEE</color>
+    <color name="EliteTeam_goal_txt_light_gray">#B5BFC9</color>
+    <!-- colors for EliteTeam (End) -->
+
+    <color name="daidalos_backgroud">#000000</color>
+    <color name="daidalos_active_file">#ffffff</color>
+    <color name="daidalos_inactive_file">#888888</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="Black">#000000</color>
+    <color name="edit_text_hint">#808080</color>
+
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="amdp_dark_gray">#818181</color>
+    <color name="transparent_background">#73000000</color>
+    <color name="silver">#ECF0F1</color>
+
+    <color name="navy_blue">#00022E</color>
+
+
+    <color name="color_chart_1">#12A3B4</color>
+    <color name="color_chart_2">#981824</color>
+    <color name="color_chart_3">#0C9A21</color>
+
+    <color name="chart_1_transparent">#2612A3B4</color>
+    <color name="chart_2_transparent">#4D981824</color>
+    <color name="chart_3_transparent">#330C9A21</color>
+
+    <color name="color_blue_shade">#26537D</color>
+    <color name="color_bluegray">#F5F6F9</color>
+    <color name="gray_text">#747273</color>
+    <color name="color_dbdbdb">#F5F5F5</color>
+    <color name="color_digi_header">#1B4575</color>
+    <color name="color_digi_button">#00507F</color>
+
+    <color name="color_success_snake">#74AA69</color>
+    <color name="step_text_color">#323131</color>
+    <color name="bg_image">#F0EBEF</color>
+    <color name="red_title">#E9161E</color>
+    <color name="light_text">#A1A1A1</color>
+    <color name="grey_bg">#D9D9D9</color>
+    <color name="grey_text_bg">#E2DEDE</color>
+    <color name="text_color_dark">#0B0B0B</color>
+    <color name="text_color_blue">#5077FF</color>
+    <color name="bg_color_info">#E6EBE0</color>
+
+    <color name="black">#FF000000</color>
+    <color name="color_gray">#D0D0D0</color>
+    <color name="color_green">#02B92D</color>
+    <color name="red"> #E9161E</color>
+    <color name="blue">#1F5ACE</color>
+    <color name="blue_text_color">#2B4ECB</color>
+
+    <color name="textColorHighlight">#4DD81B60</color>
+    <color name="purple">#673AB7</color>
+    <color name="purpleAlpha15">#26673AB7</color>
+    <color name="bg_color">#F4EEEE</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">#673AB7</color>
+
+</resources>

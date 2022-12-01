@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="default_divider_height">0.1dp</dimen>
+    <dimen name="default_divider_padding">4dp</dimen>
+
+    <!-- sweet alert dialog-->
+    <dimen name="common_circle_width">3dp</dimen>
+    <!-- sweet alert dialog-->
+
+    <dimen name="text_size_8">8sp</dimen>
+    <dimen name="text_size_10">10sp</dimen>
+    <dimen name="text_size_11">11sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_13">13sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_15">15sp</dimen>
+
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_17">17sp</dimen>
+
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_19">19sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_30">30sp</dimen>
+
+    <dimen name="margin_0.5" tools:ignore="MissingDefaultResource">0.5dp</dimen>
+    <dimen name="margin_1">1dp</dimen>
+    <dimen name="margin_2">2dp</dimen>
+    <dimen name="margin_3">3dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_6">6dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_11">11dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="margin_14">14dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_18">18dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_25">25dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="margin_35">35dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_44">44dp</dimen>
+    <dimen name="margin_45">45dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+    <dimen name="margin_55">55dp</dimen>
+    <dimen name="margin_60">60dp</dimen>
+    <dimen name="margin_70">72dp</dimen>
+    <dimen name="margin_80">80dp</dimen>
+    <dimen name="margin_content_4">12dp</dimen>
+    <dimen name="margin_7">7dp</dimen>
+
+    <dimen name="margin_corner_radius_2">2dp</dimen>
+    <dimen name="margin_corner_radius_3">3dp</dimen>
+    <dimen name="margin_corner_radius_10">10dp</dimen>
+
+    <dimen name="margin_edit_35">12dp</dimen>
+    <dimen name="margin_arrow_size">5dp</dimen>
+    <dimen name="text_size_social">12sp</dimen>
+
+    <dimen name="margin_150">150dp</dimen>
+    <dimen name="margin_290">290dp</dimen>
+
+    <dimen name="vertical_spacing_10">10dp</dimen>
+    <dimen name="horizontal_spacing_25">25dp</dimen>
+
+    <dimen name="calculate_button_width_130">130dp</dimen>
+    <dimen name="height_28">28dp</dimen>
+
+    <dimen name="margin_120">120dp</dimen>
+    <dimen name="margin_neg_8">-12dp</dimen>
+    <dimen name="margin_300">300dp</dimen>
+    <dimen name="margin__category">80dp</dimen>
+
+    <dimen name="fast_scroll_overlay_text_size">50dp</dimen>
+
+    <dimen name="fast_recyler_view_height">20dp</dimen>
+    <dimen name="fast_recyler_view_width">16dp</dimen>
+
+    <dimen name="daily_transaction_height">45dp</dimen>
+
+    <dimen name="indicator_height">5dp</dimen>
+
+    <dimen name="width_of_border">1dp</dimen>
+
+    <dimen name="txt_add_another_account">10dp</dimen>
+
+    <dimen name="elevation_card">1dp</dimen>
+
+    <dimen name="text_14">14sp</dimen>
+
+    <dimen name="percentage_circle">70dp</dimen>
+    <dimen name="margin_9">9dp</dimen>
+
+    <integer name="graph_point_size">6</integer>
+
+    <integer name="graph_text_size">25</integer>
+
+
+    <dimen name="default_tooltip_margin">0dp</dimen>
+    <dimen name="default_tooltip_padding">5dp</dimen>
+    <dimen name="default_tooltip_arrow_height">10dp</dimen>
+    <dimen name="default_tooltip_arrow_width">16dp</dimen>
+
+    <dimen name="action_button_width">48dp</dimen>
+    <dimen name="action_button_padding">16dp</dimen>
+
+    <dimen name="labeled_default_width">72dp</dimen>
+    <dimen name="labeled_default_height">32dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="_2sdp">7.20dp</dimen>
+    <dimen name="_5sdp">18.00dp</dimen>
+    <dimen name="_1sdp">3.60dp</dimen>
+    <dimen name="_10sdp">36.00dp</dimen>
+    <dimen name="_9sdp">21.60dp</dimen>
+    <dimen name="_7sdp">25.20dp</dimen>
+
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+</resources>

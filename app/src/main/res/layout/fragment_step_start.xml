@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tool="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:background="@color/Nivesh_color_AppBg"
+    tool:context="com.nivesh.production.bajajfd.ui.fragment.StepOneFragment">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="60dp"
+        android:fillViewport="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btnNext">
+
+        <com.google.android.material.card.MaterialCardView
+            style="@style/CustomCardViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardElevation="1dp"
+            app:cardUseCompatPadding="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_horizontal"
+                android:padding="10dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_2sdp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/tv_fd_label"
+                        style="@style/tv_semi_bold"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/bajaj_finance" />
+
+                    <TextView
+                        android:id="@+id/tv_fd_rating"
+                        style="@style/tv_regular"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Rating: FAAA by CRISIL"
+                        android:textColor="@color/light_text" />
+
+<!--                    <TextView-->
+<!--                        android:id="@+id/txt_inv_amount"-->
+<!--                        style="@style/tv_regular"-->
+<!--                        android:layout_width="match_parent"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:layout_marginTop="@dimen/margin_18"-->
+<!--                        android:text="@string/investment_amount_fd"-->
+<!--                        android:textColor="@color/text_default"-->
+<!--                        android:textSize="@dimen/text_size_12" />-->
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/margin_50"
+                        android:layout_marginTop="@dimen/margin_5">
+
+<!--                        <TextView-->
+<!--                            android:id="@+id/rs"-->
+<!--                            style="@style/tv_regular"-->
+<!--                            android:layout_width="wrap_content"-->
+<!--                            android:layout_height="wrap_content"-->
+<!--                            android:gravity="center_vertical"-->
+<!--                            android:paddingStart="@dimen/_5sdp"-->
+<!--                            android:paddingTop="3dp"-->
+<!--                            android:paddingEnd="@dimen/_1sdp"-->
+<!--                            android:layout_centerVertical="true"-->
+<!--                            android:paddingBottom="3dp"-->
+<!--                            android:text="@string/rs"-->
+<!--                            android:textColor="@color/text_default"-->
+<!--                            android:textSize="@dimen/text_size_14" />-->
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:id="@+id/tilDepositAmount"
+                            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Select Investment Amount">
+
+                            <com.google.android.material.textfield.TextInputEditText
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:drawableLeft="@drawable/svg_rs"
+                                android:padding="@dimen/margin_10"
+                                android:inputType="number"
+                                android:maxLength="12"/>
+
+                        </com.google.android.material.textfield.TextInputLayout>
+
+<!--                        <EditText-->
+<!--                            android:id="@+id/edit_deposit_amount"-->
+<!--                            android:layout_width="match_parent"-->
+<!--                            android:layout_height="wrap_content"-->
+<!--                            android:layout_centerInParent="true"-->
+<!--                            android:layout_toEndOf="@+id/rs"-->
+<!--                            android:background="@null"-->
+<!--                            android:imeOptions="actionNext"-->
+<!--                            android:inputType="number"-->
+<!--                            android:lines="1"-->
+<!--                            android:maxEms="12"-->
+<!--                            android:maxLines="1"-->
+<!--                            android:textColor="@color/text_default"-->
+<!--                            android:textCursorDrawable="@drawable/cursor_color"-->
+<!--                            android:textSize="@dimen/text_size_14" />-->
+
+                    </RelativeLayout>
+
+                    <TextView
+                        android:id="@+id/tv_"
+                        style="@style/tv_regular"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/margin_18"
+                        android:text="@string/select_interest_payout"
+                        android:textColor="@color/text_default"
+                        android:textSize="@dimen/text_size_12" />
+
+                    <!--                    <TextView-->
+                    <!--                        android:id="@+id/txt_interest_payout"-->
+                    <!--                        style="@style/tv_regular"-->
+                    <!--                        android:layout_width="match_parent"-->
+                    <!--                        android:layout_height="?android:attr/actionBarSize"-->
+                    <!--                        android:layout_marginTop="@dimen/_2sdp"-->
+                    <!--                        android:background="@drawable/rounded_corner_with_line"-->
+                    <!--                        android:drawableEnd="@drawable/ic_arrow_down"-->
+                    <!--                        android:drawablePadding="@dimen/_9sdp"-->
+                    <!--                        android:gravity="center_vertical"-->
+                    <!--                        android:hint="@string/tv_select_hint"-->
+                    <!--                        android:paddingStart="@dimen/margin_20"-->
+                    <!--                        android:paddingEnd="@dimen/margin_30"-->
+                    <!--                        android:textColor="@color/text_default"-->
+                    <!--                        android:textSize="@dimen/text_size_16" />-->
+
+<!--                    <Spinner-->
+<!--                        android:layout_width="match_parent"-->
+<!--                        android:layout_height="@dimen/margin_50"-->
+<!--                        android:background="@drawable/rounded_corner_with_line"-->
+<!--                        android:entries="@array/intrest_payout_list"/>-->
+
+                    <Spinner
+                        android:id="@+id/spDuration"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/margin_10"
+                        android:layout_marginTop="5dp"
+                        android:background="@drawable/rounded_corner_with_line"
+                        android:minHeight="48dp"
+                        android:entries="@array/interestPayoutList"/>
+
+                    <TextView
+                        style="@style/tv_regular"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_7sdp"
+                        android:text="@string/select_interest_tenure"
+                        android:textColor="@color/text_default"
+                        android:textSize="@dimen/text_size_12" />
+
+                    <TextView
+                        android:id="@+id/txt_interest_tenure"
+                        style="@style/tv_regular"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/margin_50"
+                        android:layout_marginTop="@dimen/_2sdp"
+                        android:background="@drawable/rounded_corner_with_line"
+                        android:drawableEnd="@drawable/ic_arrow_down"
+                        android:gravity="center_vertical"
+                        android:hint="@string/tv_select_hint"
+                        android:paddingLeft="@dimen/_5sdp"
+                        android:paddingRight="@dimen/margin_30"
+                        android:text=""
+                        android:textColor="@color/text_default"
+                        android:textSize="@dimen/text_size_16" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:layout_marginTop="@dimen/_10sdp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            style="@style/tv_regular"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/upto_0.25" />
+
+                        <Switch
+                            android:id="@+id/switch1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/black"
+                            android:layout_marginLeft="@dimen/_2sdp"
+                            android:text="@string/upto_0.25_next" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <TextView
+                    style="@style/tv_regular"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/margin_10"
+                    android:background="@color/grey_bg"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="@dimen/text_size_12"
+                    android:layout_marginTop="@dimen/margin_25"
+                    android:text="@string/maturity_instructions"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_2sdp"
+                    android:layout_marginTop="@dimen/margin_15"
+                    android:orientation="vertical">
+
+                    <TextView
+                        style="@style/tv_regular"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/margin_10"
+                        android:textColor="@color/text_color_dark"
+                        android:textSize="@dimen/text_size_12"
+                        android:drawableLeft="@drawable/svg_grey_bullet"
+                        android:drawablePadding="@dimen/margin_10"
+                        android:text="@string/additional_detail_one"/>
+
+                    <TextView
+                        style="@style/tv_regular"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/margin_10"
+                        android:textColor="@color/text_color_dark"
+                        android:textSize="@dimen/text_size_12"
+                        android:drawableLeft="@drawable/svg_grey_bullet"
+                        android:drawablePadding="@dimen/margin_10"
+                        android:text="@string/additional_detail_two"/>
+
+                    <TextView
+                        style="@style/tv_regular"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/margin_10"
+                        android:textColor="@color/text_color_dark"
+                        android:textSize="@dimen/text_size_12"
+                        android:drawableLeft="@drawable/svg_grey_bullet"
+                        android:drawablePadding="@dimen/margin_10"
+                        android:text="@string/additional_detail_three"/>
+
+                    <TextView
+                        style="@style/tv_semi_bold"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/margin_10"
+                        android:layout_marginTop="@dimen/margin_15"
+                        android:textColor="@color/text_color_dark"
+                        android:text="@string/tax_deducted_at_source_tds" />
+
+                    <TextView
+                        style="@style/tv_regular"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/margin_10"
+                        android:textColor="@color/text_color_dark"
+                        android:textSize="@dimen/text_size_12"
+                        android:drawablePadding="@dimen/margin_10"
+                        android:text="Please ensure to upload the Form 15 G / H, when you receive a mail from the
+Company for the same"/>
+
+                    <TextView
+                        style="@style/tv_regular"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/margin_10"
+                        android:textColor="@color/text_color_dark"
+                        android:textSize="@dimen/text_size_12"
+                        android:drawableLeft="@drawable/svg_grey_bullet"
+                        android:drawablePadding="@dimen/margin_10"
+                        android:text="@string/deduct_tds"/>
+
+                    <TextView
+                        style="@style/tv_regular"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/margin_10"
+                        android:paddingRight="@dimen/margin_10"
+                        android:textColor="@color/text_color_dark"
+                        android:textSize="@dimen/text_size_12"
+                        android:text="In case you are eligible for non deduction of TDS then please submit
+15G/H form to Bajaj or Nivesh team"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/margin_20"
+                    android:background="@color/bg_color_info"
+                    android:gravity="center">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            style="@style/tv_regular"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/text_color_dark"
+                            android:textSize="@dimen/margin_16"
+                            android:drawablePadding="@dimen/margin_10"
+                            android:text="Non- Cumulative ROI:"/>
+
+                        <TextView
+                            style="@style/tv_regular"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/text_color_blue"
+                            android:textSize="@dimen/margin_16"
+                            android:layout_marginLeft="@dimen/margin_2"
+                            android:text="7.5 %"/>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            style="@style/tv_regular"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/text_color_dark"
+                            android:textSize="@dimen/margin_16"
+                            android:drawablePadding="@dimen/margin_10"
+                            android:text="Regular Interest Payment:"/>
+
+                        <TextView
+                            style="@style/tv_regular"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/text_color_blue"
+                            android:textSize="@dimen/margin_16"
+                            android:layout_marginLeft="@dimen/margin_2"
+                            android:text="Quarterly"/>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            style="@style/tv_regular"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/text_color_dark"
+                            android:textSize="@dimen/margin_16"
+                            android:drawablePadding="@dimen/margin_10"
+                            android:text="Maturity Amount:"/>
+
+                        <TextView
+                            style="@style/tv_regular"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/text_color_blue"
+                            android:textSize="@dimen/margin_16"
+                            android:layout_marginLeft="@dimen/margin_2"
+                            android:text="5XXXXXX"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btnNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/next"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/colorPrimary"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollView" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">BajajFdLib</string>
+
+    <string name="step_1">Step 1</string>
+    <string name="step_2">Step 2</string>
+    <string name="step_3">Step 3</string>
+    <string name="step_4">Step 4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bajaj_finance">Bajaj Finance</string>
+    <string name="investment_amount_fd">Select Investment Amount</string>
+    <string name="rs">Rs.</string>
+    <string name="select_interest_payout">Select Interest Payout</string>
+    <string name="select_interest_tenure">Select Investment Tenure</string>
+    <string name="tv_select_hint">Select</string>
+    <string name="upto_0.25">Upto 0.25% p.a for </string>
+    <string name="upto_0.25_next">Senior Citizens, 60+</string>
+    <string name="following_option">Additional Details</string>
+    <string name="additional_detail_one">Automatically credit to my bank account</string>
+    <string name="additional_detail_two">Automatically renew principal amount</string>
+    <string name="additional_detail_three">Automatically renew both principal and interest amount</string>
+    <string name="maturity_instructions">Maturity Instrutions:</string>
+    <string name="deduct_tds">Deduct TDS (Income is taxable)</string>
+    <string name="next">Next</string>
+    <string name="once_you_click">Once you click on PAY, your order will be placed and you will be redirected to payment gateway.</string>
+
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="tab_text_4">Tab 4</string>
+    <string name="tab_text_5">Tab 5</string>
+    <string name="step1">Step 1</string>
+    <string name="step2">Step 2</string>
+    <string name="step3">Step 3</string>
+    <string name="step4">Step 4</string>
+    <string name="fd">Corporate Fixed Deposits</string>
+    <string name="back">Back</string>
+    <string name="stepFour">StepFour</string>
+    <string name="stepOne">StepOne</string>
+    <string name="click">click</string>
+    <string name="stepTwo">StepTwo</string>
+    <string name="stepThree">StepThree</string>
+    <string name="viewpager">viewpager</string>
+    <string name="tax_deducted_at_source_tds">Tax Deducted at Source (TDS):</string>
+    <string name="address_proof_type">Address Proof Type <font color='#E9161E'>*</font></string>
+    <string name="aadhar_front">Aadhar front <font color='#E9161E'>*</font></string>
+    <string name="aadhar_back">Aadhar Back <font color='#E9161E'>*</font></string>
+    <string name="pan_upload">PAN Upload <font color='#E9161E'>*</font></string>
+    <string name="photo_upload">Photo Upload <font color='#E9161E'>*</font></string>
+    <string name="terms_condition">I undertake to inform company any change in status of my nationality or tax residence. I am making investment from my Indian resident Individual Savings bank account. I/ We confirm that 1/we have read and understood the detailed terms and conditions annexed to this Application including the interest rate and other charges. I have gone through the financials and other statements/particulars representations furnished/made by the company and after careful consideration I am making the deposit with the company at my own risk and volition. I have read and agree to the <font color='#5077FF'>Terms &amp; conditions</font></string>
+    <string name="middle_name">Enter Middle Name <font color='#33000000'>(Optional)</font></string>
+    <string name="nominee_middle_name">Nominee Middle Name <font color='#33000000'>(Optional)</font></string>
+    <string name="guardian_name_optional">Guardian name <font color='#33000000'>(Optional)</font></string>
+    <string name="guardian_age_optional">Guardian Age <font color='#33000000'>(Optional)</font></string>
+    <string name="guardian_address_optional">Guardian Address <font color='#33000000'>(Optional)</font></string>
+    <string name="guardian_pinCode_optional">Guardian PinCode <font color='#33000000'>(Optional)</font></string>
+
+    <array name="interestPayoutList">
+        <item>Interest Payout</item>
+        <item>On Maturity</item>
+        <item>Monthly</item>
+        <item>Quarterly</item>
+        <item>Half Yearly</item>
+        <item>Yearly</item>
+    </array>
+
+    <array name="address_type">
+        <item>Aadhar Card</item>
+        <item>PAN</item>
+        <item>Voter Id</item>
+        <item>Driving Licence</item>
+    </array>
+
+    <array name="title">
+        <item>Mr</item>
+        <item>Mrs</item>
+    </array>
+
+    <array name="intrest_payout_list">
+        <item>Interest Payout</item>
+        <item>On Maturity</item>
+        <item>Monthly</item>
+        <item>Quarterly</item>
+        <item>Half Yearly</item>
+        <item>Yearly</item>
+    </array>
+
+    <string name="guardian_pincode_optional">Guardian Pincode <font color='#33000000'>(Optional)</font></string>
+
+</resources>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">?theme_Primary</item>
+        <item name="colorPrimaryDark">?theme_PrimaryDark</item>
+        <item name="colorAccent">?theme_Accent</item>
+        <item name="colorControlNormal">?theme_TextBlackColor</item>
+        <item name="colorControlActivated">?theme_TextBlackColor</item>
+        <item name="colorControlHighlight">@color/myTextPrimaryColor</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+    <style name="tv_regular">
+        <item name="android:fontFamily">@font/robotoregular</item>
+        <item name="android:textSize">@dimen/margin_12</item>
+        <item name="android:textColor">@color/step_text_color</item>
+    </style>
+
+    <style name="tv_semi_bold">
+        <item name="android:fontFamily">@font/robotobold</item>
+        <item name="android:textSize">@dimen/margin_14</item>
+        <item name="android:textColor">@color/red_title</item>
+    </style>
+
+    <style name="tv_bold">
+        <item name="android:fontFamily">@font/robotobold</item>
+        <item name="android:textSize">@dimen/margin_16</item>
+        <item name="android:textColor">@color/text_default</item>
+    </style>
+
+    <style name="EditTextTheme" parent="Widget.AppCompat.EditText">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/Black</item>
+    <item name="android:textCursorDrawable">?theme_TextBlackColor</item>
+    <item name="colorControlNormal">?theme_TextBlackColor</item>
+    <item name="colorControlActivated">?theme_TextBlackColor</item>
+    <item name="colorControlHighlight">?theme_TextBlackColor</item>
+    </style>
+
+    <style name="ErrorTextAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@android:color/holo_orange_dark</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+
+    <style name="HelperTextAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@android:color/holo_green_dark</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+
+    <style name="HintTextAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@android:color/holo_green_dark</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="EditTextThemeOverlay" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@android:color/holo_blue_light</item>
+    </style>
+
+    <style name="CustomCardViewStyle" parent="@style/Widget.MaterialComponents.CardView">
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearanceOverlay_card_custom_corners</item>
+    </style>
+
+    <style name="CustomCardViewTopStyle" parent="@style/Widget.MaterialComponents.CardView">
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearanceOverlay_card_top_custom_corners</item>
+    </style>
+
+    <style name="CustomCardViewBottomStyle" parent="@style/Widget.MaterialComponents.CardView">
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearanceOverlay_card_bottom_custom_corners</item>
+    </style>
+
+
+    <style name="ShapeAppearanceOverlay_card_custom_corners" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">20dp</item>
+        <item name="cornerSizeTopLeft">20dp</item>
+        <item name="cornerSizeBottomRight">20dp</item>
+        <item name="cornerSizeBottomLeft">20dp</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay_card_top_custom_corners" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">20dp</item>
+        <item name="cornerSizeTopLeft">20dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay_card_bottom_custom_corners" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">0dp</item>
+        <item name="cornerSizeTopLeft">0dp</item>
+        <item name="cornerSizeBottomRight">20dp</item>
+        <item name="cornerSizeBottomLeft">20dp</item>
+    </style>
+
+</resources>

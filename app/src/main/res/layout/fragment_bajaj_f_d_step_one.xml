@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/_2sdp"
+        android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_fd_label"
+        style="@style/tv_semi_bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bajaj_finance" />
+
+    <TextView
+        android:id="@+id/tv_fd_rating"
+        style="@style/tv_regular"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rating: FAAA by CRISIL"
+        android:textColor="@color/light_text" />
+
+    <TextView
+        android:id="@+id/txt_inv_amount"
+        style="@style/tv_regular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_18"
+        android:text="@string/investment_amount_fd"
+        android:textColor="@color/text_default"
+        android:textSize="@dimen/text_size_12" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:layout_marginTop="@dimen/margin_5"
+        android:background="@drawable/rounded_corner_with_line">
+
+        <TextView
+            android:id="@+id/rs"
+            style="@style/tv_regular"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_2sdp"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:gravity="center_vertical"
+            android:paddingStart="@dimen/_5sdp"
+            android:paddingTop="@dimen/_5sdp"
+            android:paddingEnd="@dimen/_1sdp"
+            android:paddingBottom="@dimen/_5sdp"
+            android:text="@string/rs"
+            android:textColor="@color/text_default"
+            android:textSize="@dimen/text_size_14" />
+
+        <EditText
+            android:id="@+id/edit_deposit_amount"
+            style="@style/EditTextTheme"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/rs"
+            android:background="@null"
+            android:imeOptions="actionNext"
+            android:inputType="number"
+            android:lines="1"
+            android:maxLines="1"
+            android:paddingTop="@dimen/_10sdp"
+            android:paddingBottom="@dimen/_10sdp"
+            android:textColor="@color/text_default"
+            android:textColorHint="?theme_EdtTextHintColor"
+            android:textCursorDrawable="@drawable/cursor_color"
+            android:textSize="@dimen/text_size_14" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_"
+        style="@style/tv_regular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_18"
+        android:text="@string/select_interest_payout"
+        android:textColor="@color/text_default"
+        android:textSize="@dimen/text_size_12" />
+
+    <TextView
+        android:id="@+id/txt_interest_payout"
+        style="@style/tv_regular"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:background="@drawable/rounded_corner_with_line"
+        android:drawableEnd="@drawable/ic_arrow_down"
+        android:drawablePadding="@dimen/_9sdp"
+        android:gravity="center_vertical"
+        android:hint="@string/tv_select_hint"
+        android:paddingStart="@dimen/margin_20"
+        android:paddingEnd="@dimen/margin_30"
+        android:textColor="@color/text_default"
+        android:textSize="@dimen/text_size_16" />
+
+    <TextView
+        style="@style/tv_regular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_7sdp"
+        android:text="@string/select_interest_tenure"
+        android:textColor="@color/text_default"
+        android:textSize="@dimen/text_size_12" />
+
+    <TextView
+        android:id="@+id/txt_interest_tenure"
+        style="@style/tv_regular"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:background="@drawable/rounded_corner_with_line"
+        android:drawableEnd="@drawable/ic_arrow_down"
+        android:gravity="center_vertical"
+        android:hint="@string/tv_select_hint"
+        android:paddingLeft="@dimen/_5sdp"
+        android:paddingRight="@dimen/margin_30"
+        android:text=""
+        android:textColor="@color/text_default"
+        android:textSize="@dimen/text_size_16" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/tv_regular"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/upto_0.25" />
+
+        <Switch
+            android:id="@+id/switch1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/upto_0.25_next" />
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        style="@style/tv_regular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/margin_10"
+        android:background="@color/grey_bg"
+        android:textColor="@color/text_color_dark"
+        android:textSize="@dimen/text_size_12"
+        android:layout_marginTop="@dimen/margin_25"
+        android:text="@string/following_option"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/_2sdp"
+        android:layout_marginTop="@dimen/margin_15"
+        android:orientation="vertical">
+
+    <TextView
+        style="@style/tv_regular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/margin_10"
+        android:textColor="@color/text_color_dark"
+        android:textSize="@dimen/text_size_12"
+        android:drawableLeft="@drawable/svg_grey_bullet"
+        android:drawablePadding="@dimen/margin_10"
+        android:text="@string/additional_detail_one"/>
+
+        <TextView
+            style="@style/tv_regular"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/margin_10"
+            android:textColor="@color/text_color_dark"
+            android:textSize="@dimen/text_size_12"
+            android:drawableLeft="@drawable/svg_grey_bullet"
+            android:drawablePadding="@dimen/margin_10"
+            android:text="@string/additional_detail_two"/>
+
+        <TextView
+            style="@style/tv_regular"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/margin_10"
+            android:textColor="@color/text_color_dark"
+            android:textSize="@dimen/text_size_12"
+            android:drawableLeft="@drawable/svg_grey_bullet"
+            android:drawablePadding="@dimen/margin_10"
+            android:text="@string/additional_detail_three"/>
+
+        <TextView
+            style="@style/tv_semi_bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:layout_marginTop="@dimen/margin_15"
+            android:textColor="@color/text_color_dark"
+            android:text="@string/maturity_instructions" />
+
+        <TextView
+            style="@style/tv_regular"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/margin_10"
+            android:textColor="@color/text_color_dark"
+            android:textSize="@dimen/text_size_12"
+            android:drawableLeft="@drawable/svg_grey_bullet"
+            android:drawablePadding="@dimen/margin_10"
+            android:text="@string/deduct_tds"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/margin_20"
+        android:background="@color/bg_color_info"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+        <TextView
+            style="@style/tv_regular"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color_dark"
+            android:textSize="@dimen/margin_16"
+            android:drawablePadding="@dimen/margin_10"
+            android:text="Non- Cumulative ROI:"/>
+
+        <TextView
+            style="@style/tv_regular"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color_blue"
+            android:textSize="@dimen/margin_16"
+            android:layout_marginLeft="@dimen/margin_2"
+            android:text="7.5 %"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/tv_regular"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_color_dark"
+                android:textSize="@dimen/margin_16"
+                android:drawablePadding="@dimen/margin_10"
+                android:text="Regular Interest Payment:"/>
+
+            <TextView
+                style="@style/tv_regular"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_color_blue"
+                android:textSize="@dimen/margin_16"
+                android:layout_marginLeft="@dimen/margin_2"
+                android:text="Quarterly"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/tv_regular"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_color_dark"
+                android:textSize="@dimen/margin_16"
+                android:drawablePadding="@dimen/margin_10"
+                android:text="Maturity Amount:"/>
+
+            <TextView
+                style="@style/tv_regular"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_color_blue"
+                android:textSize="@dimen/margin_16"
+                android:layout_marginLeft="@dimen/margin_2"
+                android:text="5XXXXXX"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/next"
+        android:background="@color/red_title"
+        android:textColor="@color/white"
+        android:layout_marginTop="@dimen/margin_20"
+        android:paddingLeft="@dimen/margin_20"
+        android:paddingRight="@dimen/margin_20"
+        android:paddingTop="@dimen/margin_10"
+        android:paddingBottom="@dimen/margin_10"/>
+
+</LinearLayout>
